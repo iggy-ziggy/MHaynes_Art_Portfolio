@@ -1,16 +1,15 @@
-import { Box, Flex, HStack, Spacer, Text } from "@chakra-ui/react";
-import React from "react";
+import { Box, HStack, Text } from "@chakra-ui/react";
 
 const NavBar = () => {
   return (
     <HStack padding={5} flexWrap={"wrap"}>
-      <Box flexGrow="5">
-        <Text>Matthew Haynes</Text>
-      </Box>
-      <Flex flexGrow="1" justifyContent="space-evenly">
-        <Text>Portfolio</Text>
-        <Text>Contact</Text>
-      </Flex>
+        <Box flexGrow='1'>
+            <Text>Matthew Haynes</Text>
+        </Box>
+        <HStack>
+            <Text>Portfolio</Text>
+            <Text>Contact</Text>
+        </HStack>
     </HStack>
   );
 };

@@ -1,9 +1,11 @@
 import React from "react";
 import { ChakraProvider, extendTheme } from "@chakra-ui/react";
 import ReactDOM from "react-dom/client";
-import App from "./App.jsx";
+// import App from "./App.jsx";
 import "./index.css";
 import NavBar from "./components/NavBar.jsx";
+import Footer from "./components/Footer.jsx";
+import Triangle from "./components/Triangle.jsx";
 
 // const colors = {
 //   brand: {
@@ -21,7 +23,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <ChakraProvider>
       <NavBar />
+      <Triangle />
       {/* <App /> */}
+      <Footer />
     </ChakraProvider>
   </React.StrictMode>
 );
