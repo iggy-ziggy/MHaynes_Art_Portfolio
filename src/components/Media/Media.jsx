@@ -9,7 +9,7 @@ const Media = () => {
         </div>
         {/* <img src="https://placehold.co/1000x500/000000/FFFFFF/png" alt="" /> */}
         <div className='p2'>
-            <p className='about medium_text absolute_text_1'>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+            <p className='about bold medium_text absolute_text_1'>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
             <p className='about small_text absolute_text_2'>Lorem ipsum dolor sit.</p>
         </div>
     </div>

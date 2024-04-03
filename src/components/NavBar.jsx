@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <HStack padding={5} flexWrap={"wrap"}>
         <Box flexGrow='1'>
-            <Text>Matthew Haynes</Text>
+            <Text className="bold">Matthew Haynes</Text>
         </Box>
         <HStack>
             <Text>Portfolio</Text>

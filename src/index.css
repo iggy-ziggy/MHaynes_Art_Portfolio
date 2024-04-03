@@ -1,21 +1,19 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* TYPOGRAPHY */
 
 .white {
   color: white;
 }
 
-.image_container {
-    width: 100%;
-    height: auto;
+.bold {
+    font-weight: 600;
 }
 
-.placeholder {
-  width: 1000px;
-  height: 300px;
-  background-color: black;
-}
-
-.p2 {
-    padding: 2rem; 
+.bold_light {
+    font-weight: 500;
 }
 
 .medium_text {
@@ -24,4 +22,21 @@
 
 .small_text {
   font-size: 1.5rem;
+}
+
+.image_container {
+  width: 100%;
+  height: auto;
+}
+
+/* TESTING */
+
+.placeholder {
+  width: 1000px;
+  height: 300px;
+  background-color: black;
+}
+
+.p2 {
+  padding: 2rem;
 }
