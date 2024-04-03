@@ -4,9 +4,9 @@ const Footer = () => {
   return (
     <Box padding={5} align='center'>
         <Flex justifyContent='space-around' w='50%'>
-            <Box>ICON</Box>
-            <Box>ICON</Box>
-            <Box>ICON</Box>
+            <Box>I</Box>
+            <Box>I</Box>
+            <Box>I</Box>
         </Flex>
     </Box>
   )
