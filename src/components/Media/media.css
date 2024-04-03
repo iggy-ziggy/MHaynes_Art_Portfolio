@@ -1,0 +1,43 @@
+/* ABOUT SECTION */
+
+.about_box {
+    margin-top: 3rem;
+}
+
+.about.small_text {
+    margin-left: 6rem;
+}
+
+.relative_box {
+  position: relative;
+}
+
+@media screen and (min-width: 500px) {
+  .absolute_text_1 {
+    color: white;
+    text-align: left;
+    position: absolute;
+    top: 50px;
+  }
+
+  .absolute_text_2 {
+    color: white;
+    text-align: left;
+    position: absolute;
+    top: 160px;
+  }
+}
+
+@media screen and (min-width: 750px) {
+    .absolute_text_1 {
+        color: white;
+        position: absolute;
+        top: 80px;
+      }
+    
+      .absolute_text_2 {
+        color: white;
+        position: absolute;
+        top: 160px;
+      }
+}

@@ -1,4 +1,5 @@
 import { Box } from "@chakra-ui/react";
+import './triangle.css';
 
 const color1 = '#c6cccb';
 const color2 = '#e0dfd5';
