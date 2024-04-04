@@ -5,7 +5,7 @@
 }
 
 .quote_container {
-  background-color: black;
+  background-color: var(--charcoal);
   margin: 5rem 0 5rem 0;
   padding: 2rem;
 }

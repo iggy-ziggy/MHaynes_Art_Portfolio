@@ -24,7 +24,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <ChakraProvider>
       <NavBar />
-      <Triangle />
+      {/* <Triangle /> */}
       {/* <App /> */}
       <HomePage />
       <Footer />

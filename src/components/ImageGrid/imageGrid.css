@@ -1,4 +1,5 @@
 .home_grid {
+    margin-top: 5rem;
     max-width: 80%;
 }
 
@@ -9,6 +10,6 @@
 .image_title {
     color: white;
     position: absolute;
-    bottom: 20%;
-    left: 10%;
+    bottom: 10%;
+    left: 15%;
 }
