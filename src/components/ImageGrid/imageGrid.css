@@ -1,0 +1,10 @@
+.image_container {
+    position: relative;
+}
+
+.image_title {
+    color: white;
+    position: absolute;
+    bottom: 20%;
+    left: 10%;
+}

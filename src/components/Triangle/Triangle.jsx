@@ -21,11 +21,11 @@ const Triangle = () => {
           style={{ width: "100%", height: "auto" }}
         >
           {/* Outer triangle */}
-          <polygon points="100,10 200,190 0,190" style={{ fill: color1, filter: 'blur(25px)' }} />
+          <polygon points="100,10 200,190 0,190" style={{ fill: color1, filter: 'blur(35px)' }} />
           {/* Middle triangle */}
-          <polygon points="100,50 160,160 40,160" style={{ fill: color2alt,  filter: 'blur(8px)' }} />
+          <polygon points="100,50 160,160 40,160" style={{ fill: color2alt,  filter: 'blur(4px)' }} />
           {/* Inner triangle */}
-          <polygon points="100,80 130,135 70,135" style={{ fill: color6 }} />
+          <polygon points="100,90 130,145 70,145" style={{ fill: color6 }} />
         </svg>
     </Box>
   );

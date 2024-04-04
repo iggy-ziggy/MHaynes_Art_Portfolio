@@ -1,7 +1,7 @@
 import React from 'react'
-import './media.css';
+import './quote.css';
 
-const Media = () => {
+const Quote = () => {
   return (
     <div className='relative_box about_box'>
         <div className='img-container'>
@@ -16,4 +16,4 @@ const Media = () => {
   )
 }
 
-export default Media
+export default Quote

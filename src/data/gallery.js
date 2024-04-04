@@ -6,23 +6,23 @@ const gallery = [
       images: [
         {
           title: "By Any Means Necessary",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Words Are Not Enough",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "No Flinching",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Post Coital",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "System Purge",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
       ],
     },
@@ -33,23 +33,23 @@ const gallery = [
       images: [
         {
           title: "Cast Away",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "INK",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Fire Below",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Moon Above",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Glass",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
       ],
     },
@@ -60,35 +60,35 @@ const gallery = [
       images: [
         {
           title: "Catalyst",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Discord",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Exposed",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Indelible Lines",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Liminal",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Reconnect",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Refuge",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "The Price of Wisdom",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
       ],
     },
@@ -99,23 +99,23 @@ const gallery = [
       images: [
         {
           title: "Commencement",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Assembly Required",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Emergent Behavior",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Incoming Transmission",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "What We Give Away",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
       ],
     },
@@ -126,23 +126,23 @@ const gallery = [
       images: [
         {
           title: "Self",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Direction",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Power",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Love",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Enlightenment",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
       ],
     },
@@ -153,23 +153,23 @@ const gallery = [
       images: [
         {
           title: "Title 1",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Title 2",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Title 3",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Title 4",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Title 5",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
       ],
     },
@@ -180,39 +180,39 @@ const gallery = [
       images: [
         {
           title: "Hat of Doom!",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "The Seat of Creation",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Inexplicably Yours",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Persistance",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Stagnation",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Unphased",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "For the Love of Chaos",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "Unintended Consequences",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
         {
           title: "The Benevolent Weapon",
-          url: "https://placehold.co/600x400/000000/FFF",
+          url: "https://placehold.co/300x400/000000/FFF",
         },
       ],
     },
