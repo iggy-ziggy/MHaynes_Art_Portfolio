@@ -3,10 +3,10 @@ import { ChakraProvider, extendTheme } from "@chakra-ui/react";
 import ReactDOM from "react-dom/client";
 // import App from "./App.jsx";
 import "./index.css";
-import NavBar from "./components/NavBar.jsx";
-import Footer from "./components/Footer.jsx";
+import NavBar from "./components/NavBar/NavBar.jsx";
+import Footer from "./components/Footer/Footer.jsx";
 import HomePage from "./pages/HomePage.jsx";
-// import Triangle from "./components/Triangle/Triangle.jsx";
+import Triangle from "./components/Triangle/Triangle.jsx";
 
 // const colors = {
 //   brand: {
@@ -24,7 +24,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <ChakraProvider>
       <NavBar />
-      {/* <Triangle /> */}
+      <Triangle />
       {/* <App /> */}
       <HomePage />
       <Footer />

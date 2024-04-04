@@ -1,9 +1,9 @@
 import { Flex, GridItem, Image, SimpleGrid, Text } from "@chakra-ui/react";
-import useSomeImages from "../../hooks/useSomeImages";
+import useRandomImages from "../../hooks/useRandomImages";
 import "./imageGrid.css";
 
 const ImageGrid = () => {
-  const data = useSomeImages();
+  const data = useRandomImages();
 
   return (
     <Flex justify='center'>

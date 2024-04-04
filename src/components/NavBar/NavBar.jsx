@@ -1,4 +1,5 @@
 import { Box, HStack, Text } from "@chakra-ui/react";
+import './navBar.css'
 
 const NavBar = () => {
   return (

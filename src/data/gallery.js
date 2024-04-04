@@ -210,10 +210,6 @@ const gallery = [
           title: "Unintended Consequences",
           url: "https://placehold.co/300x400/000000/FFF",
         },
-        {
-          title: "The Benevolent Weapon",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
       ],
     },
   ];
