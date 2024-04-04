@@ -1,3 +1,7 @@
+.home_grid {
+    max-width: 80%;
+}
+
 .image_container {
     position: relative;
 }

@@ -5,9 +5,8 @@ import ReactDOM from "react-dom/client";
 import "./index.css";
 import NavBar from "./components/NavBar.jsx";
 import Footer from "./components/Footer.jsx";
+import HomePage from "./pages/HomePage.jsx";
 // import Triangle from "./components/Triangle/Triangle.jsx";
-import Quote from "./components/Quote/Quote.jsx";
-import ImageGrid from "./components/ImageGrid/ImageGrid.jsx";
 
 // const colors = {
 //   brand: {
@@ -27,8 +26,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <NavBar />
       {/* <Triangle /> */}
       {/* <App /> */}
-      <Quote />
-      <ImageGrid />
+      <HomePage />
       <Footer />
     </ChakraProvider>
   </React.StrictMode>

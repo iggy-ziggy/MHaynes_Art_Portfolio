@@ -7,7 +7,7 @@ const ImageGrid = () => {
 
   return (
     <Flex justify='center'>
-      <SimpleGrid columns={3} spacing={10}>
+      <SimpleGrid columns={{sm: 1, md: 2, lg: 3}} spacing={10} className="home_grid">
         {data.map((img) => (
           <GridItem key={img.title} className="image_container">
             <Image src={img.url} />

@@ -1,0 +1,4 @@
+const aboutMe =
+  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias laborum non voluptate cum mollitia, delectus dolor dolorem, autem, sapiente amet doloremque sequi earum perspiciatis eveniet! Omnis, alias placeat dolorem quam repellat error consectetur, odio aperiam natus nisi molestiae laboriosam necessitatibus illum qui nostrum officia mollitia perferendis vitae. Animi itaque dolor dicta unde perspiciatis aliquid fugit quos. Quas dolore eius voluptatibus alias ea! Unde corporis tempore, cupiditate impedit dolores voluptatibus possimus ipsam! Porro animi doloribus laudantium adipisci consequuntur quod dignissimos velit error? Voluptatibus ipsum, error labore dolores dicta iure pariatur. Perspiciatis itaque sint, doloremque asperiores ducimus ratione animi esse illum dolores?";
+
+export default aboutMe;
