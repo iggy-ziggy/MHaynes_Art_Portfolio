@@ -1,15 +1,20 @@
+import { Container } from "@chakra-ui/react";
+import ImageDetails from "../components/ImageDetails/ImageDetails";
 import SingleImage from "../components/SingleImage/SingleImage";
-import Title from "../components/Title/Title";
 import useImage from "../hooks/useImage";
 
 const ImagePage = () => {
-  const image = useImage("What We Give Away");
+  const image = useImage(18);
 
   return (
-    <>
-      <SingleImage url={image.url}/>
-      <Title title={image.title} size='md' />
-    </>
+    <Container w='90%'>
+      <SingleImage url={image.url} />
+      <ImageDetails
+        title={image.title}
+        media={image.media}
+        date={image.year_completed}
+      />
+    </Container>
   );
 };
 

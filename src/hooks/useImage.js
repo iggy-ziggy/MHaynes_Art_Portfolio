@@ -1,12 +1,12 @@
 import gallery from "../data/gallery";
 
-const useImage = (title) => {
+const useImage = (id) => {
   const foundImage = gallery.find((obj) =>
-    obj.images.some((image) => image.title === title)
+    obj.images.some((image) => image.id === id)
   );
 
   return foundImage
-    ? foundImage.images.find((image) => image.title === title)
+    ? foundImage.images.find((image) => image.id === id)
     : null;
 };
 

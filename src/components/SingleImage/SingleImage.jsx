@@ -5,7 +5,7 @@ import './SingleImage.css'
 const SingleImage = ({url}) => { 
   return (
     <Box display='flex' justifyContent='center' className='single_image_container'>
-        <Image w='90%' src={url}/>
+        <Image w='100%' src={url}/>
     </Box>
   )
 }

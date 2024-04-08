@@ -1,218 +1,354 @@
 const gallery = [
-    {
-      name: "Create, Destroy, Repeat",
-      description:
-        "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ipsam quibusdam",
-      images: [
-        {
-          title: "By Any Means Necessary",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Words Are Not Enough",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "No Flinching",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Post Coital",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "System Purge",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-      ],
-    },
-    {
-      name: "By: the Sea",
-      description:
-        "architecto odio ipsum. Facilis deleniti ad nobis quasi delectus possimus deserunt ipsa sint",
-      images: [
-        {
-          title: "Cast Away",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "INK",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Fire Below",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Moon Above",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Glass",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-      ],
-    },
-    {
-      name: "Crisis",
-      description:
-        "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
-      images: [
-        {
-          title: "Catalyst",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Discord",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Exposed",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Indelible Lines",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Liminal",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Reconnect",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Refuge",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "The Price of Wisdom",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-      ],
-    },
-    {
-      name: "Embryonic",
-      description:
-        "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
-      images: [
-        {
-          title: "Commencement",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Assembly Required",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Emergent Behavior",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Incoming Transmission",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "What We Give Away",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-      ],
-    },
-    {
-      name: "In Search Of",
-      description:
-        "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
-      images: [
-        {
-          title: "Self",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Direction",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Power",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Love",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Enlightenment",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-      ],
-    },
-    {
-      name: "The Great Black Spot",
-      description:
-        "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
-      images: [
-        {
-          title: "Title 1",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Title 2",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Title 3",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Title 4",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Title 5",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-      ],
-    },
-    {
-      name: "Unclaimed Items",
-      description:
-        "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
-      images: [
-        {
-          title: "Hat of Doom!",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "The Seat of Creation",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Inexplicably Yours",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Persistance",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Stagnation",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Unphased",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "For the Love of Chaos",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-        {
-          title: "Unintended Consequences",
-          url: "https://placehold.co/300x400/000000/FFF",
-        },
-      ],
-    },
-  ];
-  
-  export default gallery;
-  
+  {
+    id: 1,
+    name: "Create, Destroy, Repeat",
+    description:
+      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ipsam quibusdam",
+    years_in_progress: "2017-2018",
+    images: [
+      {
+        id: 1,
+        title: "By Any Means Necessary",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2017,
+      },
+      {
+        id: 2,
+        title: "Words Are Not Enough",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2017,
+      },
+      {
+        id: 3,
+        title: "No Flinching",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2017,
+      },
+      {
+        id: 4,
+        title: "Post Coital",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2018,
+      },
+      {
+        id: 5,
+        title: "System Purge",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2018,
+      },
+    ],
+  },
+  {
+    id: 2,
+    name: "By: the Sea",
+    description:
+      "architecto odio ipsum. Facilis deleniti ad nobis quasi delectus possimus deserunt ipsa sint",
+    years_in_progress: "2018-2019",
+    images: [
+      {
+        id: 6,
+        title: "Cast Away",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2018,
+      },
+      {
+        id: 7,
+        title: "INK",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2018,
+      },
+      {
+        id: 8,
+        title: "Fire Below",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+      {
+        id: 9,
+        title: "Moon Above",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+      {
+        id: 10,
+        title: "Glass",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+    ],
+  },
+  {
+    id: 3,
+    name: "Crisis",
+    description:
+      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+    years_in_progress: "2019-2020",
+    images: [
+      {
+        id: 11,
+        title: "Catalyst",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+      {
+        id: 12,
+        title: "Discord",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+      {
+        id: 13,
+        title: "Exposed",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+      {
+        id: 14,
+        title: "Indelible Lines",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 15,
+        title: "Liminal",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+      {
+        id: 16,
+        title: "Reconnect",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 17,
+        title: "Refuge",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 18,
+        title: "The Price of Wisdom",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2019,
+      },
+    ],
+  },
+  {
+    id: 4,
+    name: "Embryonic",
+    description:
+      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+    years_in_progress: "2020-2021",
+    images: [
+      {
+        id: 19,
+        title: "Commencement",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 20,
+        title: "Assembly Required",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 21,
+        title: "Emergent Behavior",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 22,
+        title: "Incoming Transmission",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2021,
+      },
+      {
+        id: 23,
+        title: "What We Give Away",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2021,
+      },
+    ],
+  },
+  {
+    id: 5,
+    name: "In Search Of",
+    description:
+      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+    years_in_progress: "2021-2022",
+    images: [
+      {
+        id: 24,
+        title: "Self",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on watercolor board",
+        year_completed: 2021,
+      },
+      {
+        id: 25,
+        title: "Direction",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on watercolor board",
+        year_completed: 2021,
+      },
+      {
+        id: 26,
+        title: "Power",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on watercolor board",
+        year_completed: 2021,
+      },
+      {
+        id: 27,
+        title: "Love",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on watercolor board",
+        year_completed: 2022,
+      },
+      {
+        id: 28,
+        title: "Enlightenment",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on watercolor board",
+        year_completed: 2022,
+      },
+    ],
+  },
+  {
+    id: 6,
+    name: "The Great Black Spot",
+    description:
+      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+    years_in_progress: "2022-2023",
+    images: [
+      {
+        id: 29,
+        title: "Title 1",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "digital",
+        year_completed: 2022,
+      },
+      {
+        id: 30,
+        title: "Title 2",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "digital",
+        year_completed: 2022,
+      },
+      {
+        id: 31,
+        title: "Title 3",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "digital",
+        year_completed: 2022,
+      },
+      {
+        id: 32,
+        title: "Title 4",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "digital",
+        year_completed: 2023,
+      },
+      {
+        id: 33,
+        title: "Title 5",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "digital",
+        year_completed: 2023,
+      },
+    ],
+  },
+  {
+    id: 7,
+    name: "Unclaimed Items",
+    description:
+      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+    years_in_progress: "Ongoing...",
+    images: [
+      {
+        id: 34,
+        title: "Hat of Doom!",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 35,
+        title: "The Seat of Creation",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2020,
+      },
+      {
+        id: 36,
+        title: "Inexplicably Yours",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2017,
+      },
+      {
+        id: 37,
+        title: "Persistance",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2018,
+      },
+      {
+        id: 38,
+        title: "Stagnation",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2018,
+      },
+      {
+        id: 39,
+        title: "Unphased",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2017,
+      },
+      {
+        id: 40,
+        title: "For the Love of Chaos",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2017,
+      },
+      {
+        id: 41,
+        title: "Unintended Consequences",
+        url: "https://placehold.co/300x400/000000/FFF",
+        media: "acrylic on wood",
+        year_completed: 2017,
+      },
+    ],
+  },
+];
+
+export default gallery;

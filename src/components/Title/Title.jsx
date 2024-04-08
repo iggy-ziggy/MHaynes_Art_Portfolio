@@ -4,7 +4,7 @@ import "./Title.css";
 
 const Title = ({ title, size, justify }) => {
   return (
-    <Box className="title_container" display="flex" justifyContent={justify}>
+    <Box  display="flex" justifyContent={justify}>
       <Heading as="h2" size={size}>
         {title}
       </Heading>
