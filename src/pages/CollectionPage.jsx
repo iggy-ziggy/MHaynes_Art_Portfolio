@@ -3,7 +3,7 @@ import ImageGrid from "../components/ImageGrid/ImageGrid";
 import TextContent from "../components/TextContent/TextContent";
 import useCollection from "../hooks/useCollection";
 
-const Collection = () => {
+const CollectionPage = () => {
   const collection = useCollection(3);
   const images = collection.images;
 
@@ -16,4 +16,4 @@ const Collection = () => {
   );
 };
 
-export default Collection;
+export default CollectionPage;

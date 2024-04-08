@@ -1,14 +1,10 @@
 import React from "react";
-import { ChakraProvider, extendTheme } from "@chakra-ui/react";
 import ReactDOM from "react-dom/client";
+import { RouterProvider } from "react-router-dom";
+import { ChakraProvider, extendTheme } from "@chakra-ui/react";
 // import App from "./App.jsx";
 import "./index.css";
-import NavBar from "./components/NavBar/NavBar.jsx";
-import Footer from "./components/Footer/Footer.jsx";
-import HomePage from "./pages/HomePage.jsx";
-import CollectionPage from "./pages/CollectionPage.jsx";
-import Triangle from "./components/Triangle/Triangle.jsx";
-import ImagePage from "./pages/ImagePage.jsx";
+import router from './routes'
 
 // const colors = {
 //   brand: {
@@ -25,13 +21,7 @@ import ImagePage from "./pages/ImagePage.jsx";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <ChakraProvider>
-      <NavBar />
-      {/* <Triangle /> */}
-      {/* <App /> */}
-      {/* <HomePage /> */}
-      {/* <CollectionPage /> */}
-      <ImagePage />
-      <Footer />
+      <RouterProvider router={router}></RouterProvider>
     </ChakraProvider>
   </React.StrictMode>
 );
