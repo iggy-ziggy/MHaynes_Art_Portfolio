@@ -10,7 +10,7 @@ const ImageGrid = ({data}) => {
       <SimpleGrid
         columns={{ sm: 1, md: 2, lg: 3 }}
         spacing={10}
-        className="home_grid"
+        className="image_grid"
       >
         {collection.map((img) => (
           <GridItem key={img.title} className="image_container">

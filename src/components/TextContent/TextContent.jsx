@@ -1,12 +1,12 @@
-import { Text } from "@chakra-ui/react";
+import { Container, Text } from "@chakra-ui/react";
 import PropTypes from "prop-types";
 import "./textContent.css";
 
 const TextContent = ({ content }) => {
   return (
-    <div className="text_container">
+    <Container className="text_container">
       <Text className="text_content">{content}</Text>
-    </div>
+    </Container>
   );
 };
 
