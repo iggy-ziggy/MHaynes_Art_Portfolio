@@ -6,8 +6,9 @@ import "./index.css";
 import NavBar from "./components/NavBar/NavBar.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 import HomePage from "./pages/HomePage.jsx";
-import Collection from "./pages/Collection.jsx";
+import CollectionPage from "./pages/CollectionPage.jsx";
 import Triangle from "./components/Triangle/Triangle.jsx";
+import ImagePage from "./pages/ImagePage.jsx";
 
 // const colors = {
 //   brand: {
@@ -28,7 +29,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       {/* <Triangle /> */}
       {/* <App /> */}
       {/* <HomePage /> */}
-      <Collection />
+      {/* <CollectionPage /> */}
+      <ImagePage />
       <Footer />
     </ChakraProvider>
   </React.StrictMode>

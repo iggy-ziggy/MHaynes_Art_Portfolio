@@ -1,4 +1,4 @@
-import CollectionTitle from "../components/CollectionTitle/CollectionTitle";
+import Title from "../components/Title/Title";
 import ImageGrid from "../components/ImageGrid/ImageGrid";
 import TextContent from "../components/TextContent/TextContent";
 import useCollection from "../hooks/useCollection";
@@ -9,7 +9,7 @@ const Collection = () => {
 
   return (
     <>
-      <CollectionTitle title={collection.name} />
+      <Title title={collection.name} size='3xl' justify='center'/>
       <TextContent content={collection.description} />
       <ImageGrid data={images} />
     </>
