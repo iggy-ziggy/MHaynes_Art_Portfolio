@@ -2,8 +2,8 @@ import { Flex, GridItem, Image, SimpleGrid, Text } from "@chakra-ui/react";
 import PropTypes from "prop-types";
 import "./imageGrid.css";
 
-const ImageGrid = ({ action }) => {
-  const data = action();
+const ImageGrid = ({data}) => {
+  const collection = data;
 
   return (
     <Flex justify="center">
@@ -12,7 +12,7 @@ const ImageGrid = ({ action }) => {
         spacing={10}
         className="home_grid"
       >
-        {data.map((img) => (
+        {collection.map((img) => (
           <GridItem key={img.title} className="image_container">
             <Image src={img.url} />
             <Text className="image_title">{img.title}</Text>
@@ -24,7 +24,7 @@ const ImageGrid = ({ action }) => {
 };
 
 ImageGrid.propTypes = {
-  action: PropTypes.func.isRequired,
+  data: PropTypes.array.isRequired,
 };
 
 export default ImageGrid;

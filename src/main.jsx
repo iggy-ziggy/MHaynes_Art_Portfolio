@@ -6,6 +6,7 @@ import "./index.css";
 import NavBar from "./components/NavBar/NavBar.jsx";
 import Footer from "./components/Footer/Footer.jsx";
 import HomePage from "./pages/HomePage.jsx";
+import Collection from "./pages/Collection.jsx";
 import Triangle from "./components/Triangle/Triangle.jsx";
 
 // const colors = {
@@ -26,7 +27,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       <NavBar />
       {/* <Triangle /> */}
       {/* <App /> */}
-      <HomePage />
+      {/* <HomePage /> */}
+      <Collection />
       <Footer />
     </ChakraProvider>
   </React.StrictMode>

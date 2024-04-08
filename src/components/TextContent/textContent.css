@@ -1,5 +1,4 @@
 .text_container {
-    /* border: 1px solid grey; */
     border-radius: 5px;
     box-shadow: 0 0 30px rgb(211, 211, 211, 0.5);
     margin: 0 2rem 5rem 2rem;
@@ -8,5 +7,4 @@
 
 .text_content {
     font-size: 1.2rem;
-    /* text-align: center; */
 }

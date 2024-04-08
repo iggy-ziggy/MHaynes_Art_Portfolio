@@ -1,14 +1,17 @@
-import { Text } from "@chakra-ui/react"
-import './textContent.css'
+import { Text } from "@chakra-ui/react";
+import PropTypes from "prop-types";
+import "./textContent.css";
 
-// eslint-disable-next-line react/prop-types
-const TextContent = ({content}) => {
+const TextContent = ({ content }) => {
   return (
     <div className="text_container">
       <Text className="text_content">{content}</Text>
     </div>
-  )
-}
+  );
+};
 
+TextContent.propTypes = {
+  content: PropTypes.string,
+};
 
 export default TextContent;

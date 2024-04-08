@@ -5,11 +5,13 @@ import aboutMe from "../data/about";
 import useRandomImages from "../hooks/useRandomImages";
 
 const HomePage = () => {
+  const collection = useRandomImages();
+
   return (
     <>
       <Quote />
       <TextContent content={aboutMe}/>
-      <ImageGrid action={useRandomImages}/>
+      <ImageGrid data={collection}/>
     </>
   );
 };
