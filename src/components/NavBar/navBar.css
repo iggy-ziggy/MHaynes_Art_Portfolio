@@ -1,0 +1,23 @@
+.nav_element {
+    margin-right: 1rem;
+}
+
+.dropdown_menu {
+    padding: 0.5rem;
+    text-align: left;
+    position: absolute;
+}
+
+.dropdown_content {
+    font-weight: 500;
+    color: whitesmoke;
+    padding: 0.25rem;;
+}
+
+.dropdown_content, .dropdown_menu {
+    background-color: var(--grey);
+}
+
+.dropdown_menu .dropdown_content:not(:last-child) {
+    border-bottom: 1px solid white;
+}

@@ -5,20 +5,21 @@ import LandingPage from "./pages/LandingPage";
 import CollectionPage from "./pages/CollectionPage";
 import ImagePage from "./pages/ImagePage";
 import HomePage from "./pages/HomePage";
+import AllCollectionsPage from "./pages/AllCollectionsPage";
 
 const router = createBrowserRouter([
-    {
-        path: '/',
-        element: <Layout />,
-        errorElement: <ErrorPage />,
-        children: [
-            {index: true, element: <LandingPage />},
-            {path: '/home', element: <HomePage />},
-            {path: 'collections/:id', element: <CollectionPage />},
-            {path: 'images/:id', element: <ImagePage />},
-        ]
-
-    }
-])
+  {
+    path: "/",
+    element: <Layout />,
+    errorElement: <ErrorPage />,
+    children: [
+      { index: true, element: <LandingPage /> },
+      { path: "/home", element: <HomePage /> },
+      { path: "collections", element: <AllCollectionsPage /> },
+      { path: "collections/:id", element: <CollectionPage /> },
+      { path: "images/:id", element: <ImagePage /> },
+    ],
+  },
+]);
 
 export default router;
