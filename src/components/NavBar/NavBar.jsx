@@ -1,8 +1,8 @@
-import { Box, Button, ListItem, List, HStack, Text } from "@chakra-ui/react";
-import useCollections from "../../hooks/useCollections";
-import { Link } from "react-router-dom";
-import "./navBar.css";
+import { Box, HStack, List, ListItem, Text } from "@chakra-ui/react";
 import { useState } from "react";
+import { Link } from "react-router-dom";
+import useCollections from "../../hooks/useCollections";
+import "./navBar.css";
 
 const NavBar = () => {
   const data = useCollections();
@@ -11,7 +11,7 @@ const NavBar = () => {
   return (
     <HStack padding={5} flexWrap={"wrap"}>
       <Box flexGrow="1">
-        <Text className="bold">Matthew Haynes</Text>
+        <Link to='/home' className="bold">Matthew Haynes</Link>
       </Box>
       <HStack>
         <Box className="nav_element">
@@ -30,7 +30,9 @@ const NavBar = () => {
             )}
           </button>
         </Box>
-        <Link to="/contact" className="nav_element">Contact</Link>
+        <Link to="/contact" className="nav_element">
+          Contact
+        </Link>
       </HStack>
     </HStack>
   );
