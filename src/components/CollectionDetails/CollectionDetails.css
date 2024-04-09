@@ -1,0 +1,20 @@
+.detail_container, 
+.detail_column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.detail_column {
+    font-weight: 500;
+    color: var(--lightGrey);
+}
+
+@media screen and (max-width: 768px) {
+    .detail_column {
+        max-width: 75%;
+        margin: 0 auto;
+    }
+}

@@ -7,7 +7,7 @@ const ImageGrid = ({ data }) => {
   const collection = data;
 
   return (
-    <Flex justify="center">
+    <Flex mt='4rem' justify="center">
       <SimpleGrid
         columns={{ sm: 1, md: 2, lg: 3 }}
         spacing={10}

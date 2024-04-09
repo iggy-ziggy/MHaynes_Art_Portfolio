@@ -1,4 +1,4 @@
-form {
+.contact {
   /* color: white; */
   display: flex;
   flex-direction: column;
@@ -10,21 +10,21 @@ form {
   padding: 3rem;
 }
 
-.contact_heading {
+.contact .contact_heading {
   margin-bottom: 3rem;
   text-align: center;
 }
 
-.input {
+.contact .input {
   background-color: var(--paleGrey);
   border-color: var(--paleGrey);
 }
 
-.contact_btn {
+.contact .contact_btn {
   background: var(--gold);
   margin-top: 0.5rem;
 }
 
-.contact_btn:hover {
+.contact .contact_btn:hover {
   background: rgb(255, 217, 94);
 }

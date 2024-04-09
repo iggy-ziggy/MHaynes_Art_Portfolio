@@ -9,7 +9,7 @@ const ImagePage = () => {
   const image = useImage(parseInt(id));
 
   return (
-    <Container w="90%">
+    <Container mt='10rem' w="90%">
       <SingleImage url={image.url} />
       <ImageDetails
         title={image.title}

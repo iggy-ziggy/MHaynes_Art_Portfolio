@@ -1,20 +1,21 @@
-import { Box, Heading } from "@chakra-ui/react";
-import ImageGrid from "../components/ImageGrid/ImageGrid";
-import TextContent from "../components/TextContent/TextContent";
-import useCollection from "../hooks/useCollection";
+import { Box } from "@chakra-ui/react";
 import { useParams } from "react-router-dom";
+import CollectionDetails from "../components/CollectionDetails/CollectionDetails";
+import ImageGrid from "../components/ImageGrid/ImageGrid";
+import useCollection from "../hooks/useCollection";
 
 const CollectionPage = () => {
-  let { id } = useParams(); 
+  let { id } = useParams();
   const collection = useCollection(parseInt(id));
   const images = collection.images;
 
   return (
-    <Box display="flex" flexDirection="column" alignItems="center">
-      <Heading p="3rem" size="3xl">
-        {collection.name}
-      </Heading>
-      <TextContent content={collection.description} />
+    <Box display="flex" flexDirection="column" alignItems="center" mt='8rem'>
+      <CollectionDetails
+        title={collection.name}
+        description={collection.description}
+        years={collection.years_in_progress}
+      />
       <ImageGrid data={images} />
     </Box>
   );
