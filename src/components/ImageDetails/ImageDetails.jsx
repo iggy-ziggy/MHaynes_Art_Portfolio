@@ -16,7 +16,7 @@ const ImageDetails = ({ title, media, date }) => {
 ImageDetails.propTypes = {
   title: PropTypes.string,
   media: PropTypes.string,
-  date: PropTypes.string,
+  date: PropTypes.number,
 };
 
 export default ImageDetails;

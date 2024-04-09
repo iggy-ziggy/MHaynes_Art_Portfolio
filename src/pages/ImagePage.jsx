@@ -1,13 +1,15 @@
+import { useParams } from "react-router-dom";
 import { Container } from "@chakra-ui/react";
 import ImageDetails from "../components/ImageDetails/ImageDetails";
 import SingleImage from "../components/SingleImage/SingleImage";
 import useImage from "../hooks/useImage";
 
 const ImagePage = () => {
-  const image = useImage(18);
+  let { id } = useParams();
+  const image = useImage(parseInt(id));
 
   return (
-    <Container w='90%'>
+    <Container w="90%">
       <SingleImage url={image.url} />
       <ImageDetails
         title={image.title}

@@ -1,8 +1,9 @@
 import { Flex, GridItem, Image, SimpleGrid, Text } from "@chakra-ui/react";
 import PropTypes from "prop-types";
 import "./imageGrid.css";
+import { Link } from "react-router-dom";
 
-const ImageGrid = ({data}) => {
+const ImageGrid = ({ data }) => {
   const collection = data;
 
   return (
@@ -14,7 +15,9 @@ const ImageGrid = ({data}) => {
       >
         {collection.map((img) => (
           <GridItem key={img.title} className="image_container">
-            <Image src={img.url} />
+            <Link to={`/images/${img.id}`}>
+              <Image src={img.url} />
+            </Link>
             <Text className="image_title">{img.title}</Text>
           </GridItem>
         ))}
