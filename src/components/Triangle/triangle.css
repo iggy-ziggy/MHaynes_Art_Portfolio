@@ -1,5 +1,7 @@
 .triangle {
     overflow: visible;
-    margin-bottom: 3rem;
+    /* margin-bottom: 3rem; */
     padding: 1rem;
+    width: 100%;
+    height: 80vh;
   }
