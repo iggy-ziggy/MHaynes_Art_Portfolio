@@ -6,6 +6,7 @@ import CollectionPage from "./pages/CollectionPage";
 import ImagePage from "./pages/ImagePage";
 import HomePage from "./pages/HomePage";
 import AllCollectionsPage from "./pages/AllCollectionsPage";
+import ContactPage from "./pages/ContactPage";
 
 const router = createBrowserRouter([
   {
@@ -18,6 +19,7 @@ const router = createBrowserRouter([
       { path: "collections", element: <AllCollectionsPage /> },
       { path: "collections/:id", element: <CollectionPage /> },
       { path: "images/:id", element: <ImagePage /> },
+      {path: "contact", element: <ContactPage />}
     ],
   },
 ]);

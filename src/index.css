@@ -6,6 +6,10 @@
   --black: black;
   --charcoal:  #1f1f1f;
   --grey: #545454;
+  --lightGrey: #767676;
+  --paleGrey: #cfcfcf;
+  --almostWhite: #f7f7f7;
+  --gold: rgb(255, 206, 44);
 }
 
 /* TYPOGRAPHY */
