@@ -13,6 +13,9 @@ const NavBar = () => {
       <Box flexGrow="1">
         <Link to='/home' className="bold">Matthew Haynes</Link>
       </Box>
+      <Box className="nav_element">
+        <Link to='/'>O</Link>
+      </Box>
       <HStack>
         <Box className="nav_element">
           <button onClick={() => setIsVisible(!isVisible)}>
