@@ -15,8 +15,8 @@ const Quote = () => {
     // </div>
     <div className='quote_container'>
       <div className='quote'>
-        <p className='white medium_text' >Lorem ipsum dolor sit amet consectetur adipisicing.</p>
-        <p className='white small_text'>Lorem ipsum dolor sit.</p>
+        <p className='white medium_text' >I tried to come up with a clever quote here.</p>
+        <p className='white small_text'>Really. I did.</p>
       </div>
     </div>
   )

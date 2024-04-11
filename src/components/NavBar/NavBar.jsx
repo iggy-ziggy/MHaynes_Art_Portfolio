@@ -22,7 +22,7 @@ const NavBar = () => {
             Portfolio
             {isVisible && (
               <List className="dropdown_menu">
-                {data.map((collections) => (
+                {data.reverse().map((collections) => (
                   <ListItem key={collections.id} className="dropdown_content">
                     <Link to={`/collections/${collections.id}`}>
                       {collections.title}

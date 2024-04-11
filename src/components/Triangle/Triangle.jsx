@@ -18,14 +18,14 @@ const Triangle = () => {
         <svg
           className="triangle"
           viewBox="0 0 200 200"
-          style={{ width: "100%", height: "auto" }}
+          style={{ width: "100%", height: "100%" }}
         >
           {/* Outer triangle */}
-          <polygon points="100,10 200,190 0,190" style={{ fill: color1, filter: 'blur(35px)' }} />
+          <polygon points="100,-20 200,170 0,170" style={{ fill: color1, filter: 'blur(35px)' }} />
           {/* Middle triangle */}
-          <polygon points="100,50 160,160 40,160" style={{ fill: color2alt,  filter: 'blur(4px)' }} />
+          <polygon points="100,20 160,140 40,140" style={{ fill: color2alt,  filter: 'blur(4px)' }} />
           {/* Inner triangle */}
-          <polygon points="100,90 130,145 70,145" style={{ fill: color6 }} />
+          <polygon points="100,50 150,135 50,135" style={{ fill: color6 }} />
         </svg>
     </Box>
   );

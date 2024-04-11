@@ -1,12 +1,15 @@
 .text_container {
+    background-color: var(--grey);
     border-radius: 10px;
     box-shadow: 0 0 30px rgb(211, 211, 211, 0.5);
     margin: 0 2rem 5rem 2rem;
+    max-width: 90%;
     padding: 1.5rem;
     /* width: 50%; */
 }
 
 .text_content {
+    color: white;
     font-size: 1.2rem;
-    padding: 2.4rem;
+    font-weight: 500;
 }

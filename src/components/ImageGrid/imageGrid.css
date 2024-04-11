@@ -5,11 +5,20 @@
 
 .image_container {
     position: relative;
+    overflow: hidden;
 }
 
 .image_title {
     color: white;
+    font-weight: 500;
     position: absolute;
     bottom: 10%;
     left: 15%;
+}
+
+.image_grid .thumbnail {
+    transform: scale(1.05);
+    height: 500px;
+    width: 400px;
+    object-fit: cover; 
 }
