@@ -4,7 +4,7 @@ const gallery = [
     id: 1,
     name: "Unclaimed Items",
     description:
-      "",
+      "coming soon...",
     years_in_progress: "Ongoing...",
     images: [
       // {
@@ -75,7 +75,7 @@ const gallery = [
     id: 2,
     name: "Create, Destroy, Repeat",
     description:
-      "",
+      "coming soon...",
     years_in_progress: "2017-2018",
     images: [
       {
@@ -124,7 +124,7 @@ const gallery = [
     id: 3,
     name: "By: the Sea",
     description:
-      "",
+      "coming soon...",
     years_in_progress: "2018-2019",
     images: [
       {
@@ -173,7 +173,7 @@ const gallery = [
     id: 4,
     name: "Crisis",
     description:
-      "",
+      "coming soon...",
     years_in_progress: "2019-2020",
     images: [
       {
@@ -246,7 +246,7 @@ const gallery = [
     id: 5,
     name: "Embryonic",
     description:
-      "",
+      "coming soon...",
     years_in_progress: "2020-2021",
     images: [
       {
@@ -295,7 +295,7 @@ const gallery = [
     id: 6,
     name: "In Search Of",
     description:
-      "",
+      "coming soon...",
     years_in_progress: "2021-2022",
     images: [
       {
