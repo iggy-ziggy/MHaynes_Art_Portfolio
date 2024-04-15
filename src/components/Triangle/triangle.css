@@ -7,3 +7,17 @@
     /* margin-bottom: 3rem; */
     max-height: 100%;
   }
+
+  .triangle_outer {
+    fill: #c6cccb;
+    filter: blur(35px);
+  }
+
+  .triangle_middle {
+    fill: #dfe6e5;
+    filter: blur(4px);
+  }
+
+  .triangle_inner {
+    fill: #ffffff;
+  }

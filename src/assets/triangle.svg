@@ -1,0 +1,6 @@
+<!-- sample rectangle -->
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <polygon points="100,-20 200,170 0,170" style="fill: #c6cccb; filter: blur(35px);" />
+<polygon points="100,20 160,140 40,140" style="fill: #dfe6e5; filter: blur(4px);" />
+<polygon points="100,50 150,135 50,135" style="fill: #ffffff;" />
+</svg>
