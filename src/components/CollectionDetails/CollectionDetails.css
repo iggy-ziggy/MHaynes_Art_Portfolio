@@ -12,6 +12,10 @@
     color: var(--lightGrey);
 }
 
+.detail_description {
+    transition: 1s ease-in-out;
+}
+
 @media screen and (max-width: 768px) {
     .detail_column {
         max-width: 75%;

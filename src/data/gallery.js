@@ -4,7 +4,7 @@ const gallery = [
     id: 1,
     name: "Unclaimed Items",
     description:
-      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+      "",
     years_in_progress: "Ongoing...",
     images: [
       // {
@@ -75,7 +75,7 @@ const gallery = [
     id: 2,
     name: "Create, Destroy, Repeat",
     description:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam ipsam quibusdam",
+      "",
     years_in_progress: "2017-2018",
     images: [
       {
@@ -124,7 +124,7 @@ const gallery = [
     id: 3,
     name: "By: the Sea",
     description:
-      "architecto odio ipsum. Facilis deleniti ad nobis quasi delectus possimus deserunt ipsa sint",
+      "",
     years_in_progress: "2018-2019",
     images: [
       {
@@ -173,7 +173,7 @@ const gallery = [
     id: 4,
     name: "Crisis",
     description:
-      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+      "",
     years_in_progress: "2019-2020",
     images: [
       {
@@ -246,7 +246,7 @@ const gallery = [
     id: 5,
     name: "Embryonic",
     description:
-      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+      "",
     years_in_progress: "2020-2021",
     images: [
       {
@@ -295,7 +295,7 @@ const gallery = [
     id: 6,
     name: "In Search Of",
     description:
-      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+      "",
     years_in_progress: "2021-2022",
     images: [
       {
@@ -344,7 +344,11 @@ const gallery = [
     id: 7,
     name: "The Great Black Spot",
     description:
-      "dolorem doloremque labore, exercitationem quas, debitis vel sit laudantium iste ut esse",
+      `Sometimes progress is a destructive process.
+      Metamorphosis isn’t always pretty. Stripping away the outer, superficial layers, the ones we’ve put in place to convince ourselves that we are the people we say we are.
+      But, if we can be honest with ourselves, we can expose the dense, complicated core of what we really are. Once we’ve done that, we can begin to remake ourselves.
+      This dark core is neither good nor bad by its nature. It’s simply dark because it is EVERYTHING. And we shouldn’t deny that it’s there.
+      We need to stare into our own personal void.`,
     years_in_progress: "2022-2023",
     images: [
       {

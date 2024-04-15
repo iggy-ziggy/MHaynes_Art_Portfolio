@@ -1,15 +1,27 @@
-import { Box, Heading, Text } from "@chakra-ui/react";
+import { Box, Button, Collapse, Heading, Text } from "@chakra-ui/react";
 import PropTypes from "prop-types";
 import "./CollectionDetails.css";
+import { useState } from "react";
 
 const CollectionDetails = ({ title, description, years }) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+
+  const handleClick = () => {
+    setIsExpanded(!isExpanded);
+  };
+
   return (
     <Box className="detail_container">
       <Heading p="3rem" size="3xl">
         {title}
       </Heading>
       <Box className="detail_column">
-        <Text mb='1rem'>{description}</Text>
+        <Collapse in={isExpanded} animateOpacity>
+          <Text mb="1rem" className="detail_description">{description}</Text>
+        </Collapse>
+        <Button onClick={handleClick} mb='1rem'>
+          {isExpanded ? "Hide Description" : "Show Description"}
+        </Button>
         <Text>{years}</Text>
       </Box>
     </Box>
