@@ -5,7 +5,7 @@ const ImageDetails = ({ title, media, date }) => {
   return (
     <Box w='90%'>
       <Heading p='1rem' size='md'>{title}</Heading>
-      <List p='1rem'>
+      <List p='1rem' className="lightGrey">
         <ListItem>{media}</ListItem>
         <ListItem>{date}</ListItem>
       </List>

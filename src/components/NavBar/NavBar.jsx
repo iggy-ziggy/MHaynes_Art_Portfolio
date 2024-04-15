@@ -11,12 +11,14 @@ const NavBar = () => {
   return (
     <HStack padding={5} flexWrap={"wrap"}>
       <Box flexGrow="1">
-        <Link to='/home' className="bold">Matthew Haynes</Link>
-      </Box>
-      <Box className="nav_element">
-        <Link to='/'>O</Link>
+        <Link to="/" className="bold">
+          Matthew Haynes
+        </Link>
       </Box>
       <HStack>
+        <Box className="nav_element">
+          <Link to="/home">About</Link>
+        </Box>
         <Box className="nav_element">
           <button onClick={() => setIsVisible(!isVisible)}>
             Portfolio

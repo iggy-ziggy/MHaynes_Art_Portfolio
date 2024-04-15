@@ -18,6 +18,10 @@
   color: white;
 }
 
+.lightGrey {
+  color: var(--lightGrey);
+}
+
 .bold {
     font-weight: 600;
 }

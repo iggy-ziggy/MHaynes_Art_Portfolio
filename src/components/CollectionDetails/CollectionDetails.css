@@ -8,12 +8,18 @@
 }
 
 .detail_column {
-    font-weight: 500;
+    font-weight: 600;
     color: var(--lightGrey);
 }
 
-.detail_description {
-    transition: 1s ease-in-out;
+.description_container {
+    max-width: 80%;
+}
+
+@media screen and (min-width: 768px) {
+    .description_container {
+        max-width: 50%;
+    }
 }
 
 @media screen and (max-width: 768px) {
