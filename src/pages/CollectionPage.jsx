@@ -7,10 +7,12 @@ import useCollection from "../hooks/useCollection";
 const CollectionPage = () => {
   let { id } = useParams();
   const collection = useCollection(parseInt(id));
+  console.log(collection);
+  console.log(collection.description)
   const images = collection.images;
 
   return (
-    <Box display="flex" flexDirection="column" alignItems="center" mt='8rem'>
+    <Box display="flex" flexDirection="column" alignItems="center">
       <CollectionDetails
         title={collection.name}
         description={collection.description}

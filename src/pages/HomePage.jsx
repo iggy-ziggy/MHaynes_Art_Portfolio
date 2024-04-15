@@ -9,7 +9,7 @@ const HomePage = () => {
   const collection = useRandomImages();
 
   return (
-    <Box mt='8rem'>
+    <Box>
       <Quote />
       <TextContent content={aboutMe} />
       <ImageGrid data={collection} />

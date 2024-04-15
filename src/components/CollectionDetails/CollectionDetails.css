@@ -10,21 +10,20 @@
 .detail_column {
     font-weight: 600;
     color: var(--lightGrey);
+    max-width: 75%;
 }
 
 .description_container {
     max-width: 80%;
 }
 
-@media screen and (min-width: 768px) {
-    .description_container {
-        max-width: 50%;
-    }
+.description_text {
+    text-align: left;
 }
 
 @media screen and (max-width: 768px) {
     .detail_column {
-        max-width: 75%;
+        max-width: 100%;
         margin: 0 auto;
     }
 }

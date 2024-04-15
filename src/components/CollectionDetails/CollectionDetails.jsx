@@ -25,11 +25,11 @@ const CollectionDetails = ({ title, description, years }) => {
       </Heading>
       <Box className="detail_column">
         <Collapse in={isExpanded} animateOpacity className="description_container">
-          <Card className="detail_description">
+          <Card>
             <CardBody>
-              <Text mb="1rem" className="lightGrey">
-                {description}
-              </Text>
+              {description.map((text, index) => <Text key={index} mb="1rem" className="lightGrey description_text">
+                {text}
+              </Text>)}
             </CardBody>
           </Card>
         </Collapse>
@@ -44,7 +44,7 @@ const CollectionDetails = ({ title, description, years }) => {
 
 CollectionDetails.propTypes = {
   title: PropTypes.string,
-  description: PropTypes.string,
+  description: PropTypes.array.isRequired,
   years: PropTypes.string,
 };
 

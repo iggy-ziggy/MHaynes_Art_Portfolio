@@ -1,7 +1,9 @@
+.triangle_container {
+  height: 75vh;
+}
+
 .triangle {
     overflow: visible;
     /* margin-bottom: 3rem; */
-    padding: 1rem;
-    width: 100%;
-    height: 80vh;
+    max-height: 100%;
   }

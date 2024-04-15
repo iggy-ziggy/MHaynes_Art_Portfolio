@@ -14,11 +14,12 @@ const color6 = '#ffffff';
 const Triangle = () => {
     
   return (
-    <Box className="triangle">
+    <Box className="triangle_container">
         <svg
+          xmlns="http://www.w3.org/2000/svg"
           className="triangle"
           viewBox="0 0 200 200"
-          style={{ width: "100%", height: "100%" }}
+          style={{ width: "100%" }}
         >
           {/* Outer triangle */}
           <polygon points="100,-20 200,170 0,170" style={{ fill: color1, filter: 'blur(35px)' }} />
