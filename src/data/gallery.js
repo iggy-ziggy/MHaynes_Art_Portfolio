@@ -27,6 +27,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1MImAPQHQdq13hO6dUJYGremsLjWbFIV1=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
+        collection_id: 1,
       },
       {
         id: 40,
@@ -34,6 +35,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1IyMO8zGvFLGtKEh62F8lci6Jwg-i_iUF=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
+        collection_id: 1,
       },
       {
         id: 41,
@@ -41,6 +43,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1DDf5fKCitKM2LGUoREUuvvP3bffbbw2Q=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
+        collection_id: 1,
       },
       {
         id: 36,
@@ -48,6 +51,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1xPclkvw4r_JSBJ8UworH5_aeMdwWZ6On=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
+        collection_id: 1,
       },
       {
         id: 37,
@@ -55,6 +59,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1GvN-Ohy42O9ds6igE6wRaKZu_7fss0Zt=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
+        collection_id: 1,
       },
       {
         id: 38,
@@ -62,6 +67,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/18rPwsxWPC1_x-hOv2lbhKFbC11cr7kbf=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
+        collection_id: 1,
       },
     ],
   },
@@ -78,6 +84,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1kTsVApLL160ca0AUbI3hRP4aMbJfkcIY=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
+        collection_id: 2,
       },
       {
         id: 2,
@@ -85,6 +92,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1wJbmkKjoccpdlILYykKAIFUprUJFu3G_=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
+        collection_id: 2,
       },
       {
         id: 3,
@@ -92,6 +100,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1w8gNy3lZCtRFisgPeaTt0EdGg15ab7e-=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
+        collection_id: 2,
       },
       {
         id: 4,
@@ -99,6 +108,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1JpDdg8XGgkd3fEjrT_vbmmiCQ4uEYdUD=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
+        collection_id: 2,
       },
       {
         id: 5,
@@ -106,6 +116,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1Ava9Iog0R9mKTcLIMtEA-oGUz5A47jev=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
+        collection_id: 2,
       },
     ],
   },
@@ -122,6 +133,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1NDLDCgSRGOcxY7KAsQqwnhjtISXO_TA_=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
+        collection_id: 3,
       },
       {
         id: 7,
@@ -129,6 +141,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/193vsj_Zhyx72S8AWrIP9QMUsDwStoxPF=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
+        collection_id: 3,
       },
       {
         id: 8,
@@ -136,6 +149,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1EKxOcIlsKtMXynQPn58v-W3jd9zoWa6K=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 3,
       },
       {
         id: 9,
@@ -143,6 +157,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1qXf5gPy7BSlwtCl0NBgo53_jmim8FYgQ=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 3,
       },
       {
         id: 10,
@@ -150,6 +165,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1gMtYXFijw2UZtFc_pt5ii-x0KhNywTEk=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 3,
       },
     ],
   },
@@ -166,6 +182,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1IgOh4lkU0D2zsjlXXi7D6vEf48UVUnvX=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 4,
       },
       {
         id: 12,
@@ -173,6 +190,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1c6pB8Z67CpGj44JySuMXy5-7iDsFmvWP=w1000?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 4,
       },
       {
         id: 13,
@@ -180,6 +198,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1mp54dScgvmyqijpKZoIyUhIZbkEj4Bad=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 4,
       },
       {
         id: 14,
@@ -187,6 +206,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/10uCk5aoUEGB1lf-TCoWWTa_x8RBvIHsQ=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 4,
       },
       {
         id: 15,
@@ -194,6 +214,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1pae9tOj7QPPPOmuUiRl5hvCoS9owsLC_=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        collection_id: 4,
       },
       {
         id: 16,
@@ -201,6 +222,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1BqE3E7uk2eZDtfl7zLVyXWRt8GZvSh2a=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        collection_id: 4,
       },
       {
         id: 17,
@@ -208,6 +230,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1_sbjTPF1NVtmSzsGaYXIBYK6rgGh2uuT=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        collection_id: 4,
       },
       {
         id: 18,
@@ -215,6 +238,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1bsTeFf15jWkLbOtXErXkTefJ3o2viz0G=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        collection_id: 4,
       },
     ],
   },
@@ -231,6 +255,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1Ov_2eQAYURjYxUcvh8zapz9y2UBeCjsD=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        collection_id: 5,
       },
       {
         id: 20,
@@ -238,6 +263,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1Brr52MkFs8vYJi6UWUGz7bH2JvZvcDq0=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        collection_id: 5,
       },
       {
         id: 21,
@@ -245,6 +271,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1aTqE-mBPJW2yjyATw7UBQpqE_aB_O0lf=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        collection_id: 5,
       },
       {
         id: 22,
@@ -252,6 +279,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1fs05jJN71Ed8nqQ02u9UMBW6FloWSQcW=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2021,
+        collection_id: 5,
       },
       {
         id: 23,
@@ -259,6 +287,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/11P5CNmnQBoUQ86ghH-mr5QVM3Mew4E9C=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2021,
+        collection_id: 5,
       },
     ],
   },
@@ -275,6 +304,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/182YJP5FEn7k61Z-m8UBuDwTZrydonTWj=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2021,
+        collection_id: 6,
       },
       {
         id: 25,
@@ -282,6 +312,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1eSc_0g786fQYS6Phi3ANz33CqjBAkc5b=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2021,
+        collection_id: 6,
       },
       {
         id: 26,
@@ -289,6 +320,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1JuYeQ12OlZYBJUkU1hggg6zJWSUqLfIv=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2021,
+        collection_id: 6,
       },
       {
         id: 27,
@@ -296,6 +328,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/10WFsNKG9C1ViAvFFSdbDaFJA8xcTjY7j=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2022,
+        collection_id: 6,
       },
       {
         id: 28,
@@ -303,6 +336,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1iTZ2mc1-cKdQA1WmW__C7zYD9NGPbsPg=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2022,
+        collection_id: 6,
       },
     ],
   },
@@ -319,6 +353,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1G3L62SWaGiIQh35_iiCjHd7r-OgbhX5Y=w800?authuser=0",
         media: "digital",
         year_completed: 2022,
+        collection_id: 7,
       },
       {
         id: 30,
@@ -326,6 +361,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1vTgEWIm8KH5LY9nwWjvg1A3bIPMWtBfo=w800?authuser=0",
         media: "digital",
         year_completed: 2022,
+        collection_id: 7,
       },
       {
         id: 31,
@@ -333,6 +369,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1M8sni7oUOwgSCDlOvYFqmnICwIw5y_zl=w800?authuser=0",
         media: "digital",
         year_completed: 2022,
+        collection_id: 7,
       },
       {
         id: 32,
@@ -340,6 +377,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1mwwkBZF-lEwdHuJSQkUpmhQgapNIWB7M=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
+        collection_id: 7,
       },
       {
         id: 33,
@@ -347,6 +385,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1oI0VO6hsO4TjdnO1BiJ1YIq5GHgjhl65=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
+        collection_id: 7,
       },
       {
         id: 34,
@@ -354,6 +393,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1ISuAR59Zr5MO-qPdDru0Btr6qHFW9bWs=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
+        collection_id: 7,
       },
     ],
   },
