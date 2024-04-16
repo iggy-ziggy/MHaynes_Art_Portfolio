@@ -9,7 +9,8 @@
   }
 
   .triangle_outer {
-    fill: #c6cccb;
+    /* fill: #c6cccb; */
+    fill: #d6dddc;
     filter: blur(35px);
   }
 
