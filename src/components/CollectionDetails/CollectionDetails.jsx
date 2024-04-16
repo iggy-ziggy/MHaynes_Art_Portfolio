@@ -13,6 +13,7 @@ import { useState } from "react";
 
 const CollectionDetails = ({ title, description, years }) => {
   const [isExpanded, setIsExpanded] = useState(false);
+  const descriptionLines = description.split('\n');
 
   const handleClick = () => {
     setIsExpanded(!isExpanded);
@@ -27,7 +28,7 @@ const CollectionDetails = ({ title, description, years }) => {
         <Collapse in={isExpanded} animateOpacity className="description_container">
           <Card>
             <CardBody>
-              {description.map((text, index) => <Text key={index} mb="1rem" className="lightGrey description_text">
+              {descriptionLines.map((text, index) => <Text key={index} mb="1rem" className="lightGrey description_text">
                 {text}
               </Text>)}
             </CardBody>
@@ -44,7 +45,7 @@ const CollectionDetails = ({ title, description, years }) => {
 
 CollectionDetails.propTypes = {
   title: PropTypes.string,
-  description: PropTypes.array.isRequired,
+  description: PropTypes.string,
   years: PropTypes.string,
 };
 
