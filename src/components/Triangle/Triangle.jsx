@@ -3,7 +3,7 @@ import "./triangle.css";
 
 const Triangle = () => {
   return (
-    <Box p='3rem' className="triangle_container">
+    <Box p='1rem' className="triangle_container">
       {/* OG SVG */}
       {/* <svg
         xmlns="http://www.w3.org/2000/svg"
