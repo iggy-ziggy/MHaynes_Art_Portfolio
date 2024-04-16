@@ -344,11 +344,11 @@ const gallery = [
     id: 7,
     name: "The Great Black Spot",
     description:
-      [`Sometimes progress is a destructive process.`,
-      `Metamorphosis isn’t always pretty. Stripping away the outer, superficial layers, the ones we’ve put in place to convince ourselves that we are the people we say we are.`,
-      `But, if we can be honest with ourselves, we can expose the dense, complicated core of what we really are. Once we’ve done that, we can begin to remake ourselves.`,
-      `This dark core is neither good nor bad by its nature. It’s simply dark because it is EVERYTHING. And we shouldn’t deny that it’s there.`,
-      `We need to stare into our own personal void.`],
+      `Sometimes progress is a destructive process.
+      Metamorphosis isn’t always pretty. Stripping away the outer, superficial layers, the ones we’ve put in place to convince ourselves that we are the people we say we are.
+      But, if we can be honest with ourselves, we can expose the dense, complicated core of what we really are. Once we’ve done that, we can begin to remake ourselves.
+      This dark core is neither good nor bad by its nature. It’s simply dark because it is EVERYTHING. And we shouldn’t deny that it’s there.
+      We need to stare into our own personal void.`,
     years_in_progress: "2022-2023",
     images: [
       {
