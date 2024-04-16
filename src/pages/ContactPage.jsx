@@ -4,7 +4,7 @@ import Contact from "../components/Contact/Contact";
 const ContactPage = () => {
   return (
     <>
-      <VStack mt="5rem">
+      <VStack>
         <Center
           w="60%"
           style={{
