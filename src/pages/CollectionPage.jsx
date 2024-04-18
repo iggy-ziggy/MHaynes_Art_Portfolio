@@ -7,7 +7,8 @@ import useCollection from "../hooks/useCollection";
 const CollectionPage = () => {
   let { id } = useParams();
   const collection = useCollection(parseInt(id));
-  const images = collection.images;
+  // const images = collection.images;
+  // console.log(collection.images)
 
   return (
     <Box display="flex" flexDirection="column" alignItems="center">
@@ -16,7 +17,7 @@ const CollectionPage = () => {
         description={collection.description}
         years={collection.years_in_progress}
       />
-      <ImageGrid data={images} />
+      <ImageGrid data={collection.images} />
     </Box>
   );
 };

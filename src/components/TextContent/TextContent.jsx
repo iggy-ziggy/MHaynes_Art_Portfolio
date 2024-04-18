@@ -1,21 +1,21 @@
-import { Box, Container, Text } from "@chakra-ui/react";
+import { Box, Text } from "@chakra-ui/react";
 import PropTypes from "prop-types";
 import "./textContent.css";
 
 const TextContent = ({ content }) => {
   return (
-    <Container padding='3rem' className="text_container">
-      {/* <Text className="text_content">{content}</Text> */}
+    <Box className="text_container">
       {content.map((text, index) => {
         return (
-          <Box key={index}>
-            <Text className="text_content">{text}</Text>
+          <>
+            <Text key={index} className="text_content">
+              {text}
+            </Text>
             <br />
-          </Box>
+          </>
         );
       })}
-      {/* <Text align='center' fontSize='4xl' color='white'>. . .</Text> */}
-    </Container>
+    </Box>
   );
 };
 
