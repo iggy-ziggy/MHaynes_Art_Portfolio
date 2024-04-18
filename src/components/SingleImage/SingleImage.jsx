@@ -1,17 +1,21 @@
-import { Box, Image } from '@chakra-ui/react'
-import PropTypes from 'prop-types'
-import './SingleImage.css'
+import { Box, Image } from "@chakra-ui/react";
+import PropTypes from "prop-types";
+import "./SingleImage.css";
 
-const SingleImage = ({url}) => { 
+const SingleImage = ({ url }) => {
   return (
-    <Box display='flex' justifyContent='center' className='single_image_container'>
-        <Image w='100%' src={url}/>
+    <Box
+      display="flex"
+      justifyContent="center"
+      className="single_image_container"
+    >
+      <Image w="100%" src={url} />
     </Box>
-  )
-}
+  );
+};
 
 SingleImage.propTypes = {
-    url: PropTypes.string,
-}
+  url: PropTypes.string,
+};
 
-export default SingleImage
+export default SingleImage;

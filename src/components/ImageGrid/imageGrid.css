@@ -1,9 +1,9 @@
-.image_grid {
+/* .image_grid {
     margin: 5rem 0 7rem 0;
     max-width: 80%;
-}
+} */
 
-.image_container {
+.grid_item {
     position: relative;
     overflow: hidden;
 }
@@ -16,9 +16,17 @@
     left: 15%;
 }
 
-.image_grid .thumbnail {
+/* .image_grid .thumbnail {
     transform: scale(1.05);
     height: 500px;
     width: 400px;
     object-fit: cover; 
+} */
+
+/* Masonry */
+
+.image_grid {
+    margin: 7rem 0;
+    width: 1000px;
+    max-width: 90%;
 }

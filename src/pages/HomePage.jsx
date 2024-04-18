@@ -3,17 +3,20 @@ import TextContent from "../components/TextContent/TextContent";
 import ImageGrid from "../components/ImageGrid/ImageGrid";
 import aboutMe from "../data/about";
 import useRandomImages from "../hooks/useRandomImages";
-import { Box } from "@chakra-ui/react";
+import { VStack } from "@chakra-ui/react";
 
 const HomePage = () => {
   const collection = useRandomImages();
+  console.log(collection);
 
   return (
-    <Box>
+    <>
       <Quote />
-      <TextContent content={aboutMe} />
-      <ImageGrid data={collection} />
-    </Box>
+      <VStack>
+        <TextContent content={aboutMe} />
+        <ImageGrid data={collection} />
+      </VStack>
+    </>
   );
 };
 
