@@ -9,46 +9,35 @@ import "./imageGrid.css";
 const ImageGrid = ({ data }) => {
   const images = data;
   // console.log(images);
+  // const [loadedCount, setLoadedCount] = useState(0);
 
-  const [loadingStatus, setLoadingStatus] = useState({});
-  const [allImagesLoaded, setAllImagesLoaded] = useState(false);
-
-  useEffect(() => {
-    const allLoaded = Object.values(loadingStatus).every(
-      (status) => status === true
-    );
-    setAllImagesLoaded(allLoaded);
-  }, [loadingStatus]);
-
-  const handleLoad = (imgId) => {
-    setLoadingStatus((prevStatus) => ({
-      ...prevStatus,
-      [imgId]: true,
-    }));
-    // console.log(`Image with ID ${imgId} has finished loading`)
-  };
+  // const handleImageLoad = () => {
+  //   setLoadedCount((prevCount) => prevCount + 1);
+  // };
 
   return (
     <div className="image_grid">
       <ResponsiveMasonry columnsCountBreakPoints={{ 500: 1, 700: 2, 900: 3 }}>
         <Masonry columnsCount={3} gutter="0.5rem">
-          {allImagesLoaded &&
-            images.map((image, index) => (
-              <Measure key={index}>
-                {({ measureRef }) => (
-                  <div className="grid_item">
-                    <Link to={`/images/${image.id}`}>
-                      <img
-                        src={image.url}
-                        ref={measureRef}
-                        onLoad={() => handleLoad(image.id)}
-                      />
-                    </Link>
-                    <Text className="image_title">{image.title}</Text>
-                  </div>
-                )}
-              </Measure>
-            ))}
+          {images.map((image, index) => (
+            <Measure key={index}>
+              {({ measureRef }) => (
+                <div className="grid_item">
+                  <Link to={`/images/${image.id}`}>
+                    <img
+                      src={image.url}
+                      ref={measureRef}
+                      // onLoad={handleImageLoad}
+                      // style={{
+                      //   display: loadedCount > index ? "inline-block" : "none",
+                      // }}
+                    />
+                  </Link>
+                  <Text className="image_title">{image.title}</Text>
+                </div>
+              )}
+            </Measure>
+          ))}
         </Masonry>
       </ResponsiveMasonry>
     </div>
