@@ -1,0 +1,30 @@
+.about_me_container {
+  background-color: var(--grey);
+  border-radius: 0.75rem;
+  color: white;
+  font-weight: 500;
+  font-size: 1.1rem;
+  padding: 3rem;
+  width: 90%;
+}
+
+.text_bold {
+  font-weight: 600;
+}
+
+.text_large {
+  font-weight: 600;
+  font-size: 1.45rem;
+}
+
+@media screen and (min-width: 900px) {
+  .about_me_container {
+    max-width: 75%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .about_me_container {
+    max-width: 60%;
+  }
+}

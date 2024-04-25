@@ -45,7 +45,7 @@ const ContactForm = () => {
   };
 
   return (
-    <Box maxWidth="400px" h='65vh' margin="8rem auto">
+    <Box w="450px" h='65vh' maxW="90%" margin="8rem auto">
       <form onSubmit={handleSubmit(onSubmit)} className="contact">
         <Heading className="contact_heading" size='3xl'>Contact</Heading>
         <FormControl id="name" marginBottom="4">
