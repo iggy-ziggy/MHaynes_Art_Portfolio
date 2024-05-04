@@ -48,13 +48,13 @@ const ContactForm = () => {
     <Box w="450px" h='65vh' maxW="90%" margin="8rem auto">
       <form onSubmit={handleSubmit(onSubmit)} className="contact">
         <Heading className="contact_heading" size='3xl'>Contact</Heading>
-        <FormControl id="name" marginBottom="4">
+        <FormControl id="from_name" marginBottom="4">
           <FormLabel>Name</FormLabel>
-          <Input {...register("name", { required: true })} className="input"/>
+          <Input {...register("from_name", { required: true })} className="input"/>
         </FormControl>
-        <FormControl id="email" marginBottom="4">
+        <FormControl id="reply_to" marginBottom="4">
           <FormLabel>Email</FormLabel>
-          <Input type="email" {...register("email", { required: true })} className="input" />
+          <Input type="email" {...register("reply_to", { required: true })} className="input" />
         </FormControl>
         <FormControl id="message" marginBottom="4">
           <FormLabel>Message</FormLabel>
