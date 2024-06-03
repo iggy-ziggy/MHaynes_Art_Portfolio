@@ -7,7 +7,7 @@ const AboutMe = () => {
       <Text>
         <span className="text_large">
           {`When people ask me "what kind of things do you paint?" I have so much
-          trouble answering. . . `}
+          trouble answering. `}
         </span>
         {`I'll scramble to find the closest approximation I
         can, and usually end up rambling for far too long. I have
