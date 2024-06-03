@@ -52,6 +52,11 @@ html, body, #root {
   height: auto;
 }
 
+/* GENERAL STYLES */
+Button.gold_btn {
+  background-color: var(--gold);
+}
+
 /* TESTING */
 
 .placeholder {
