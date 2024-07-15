@@ -26,7 +26,7 @@ const gallery = [
       {
         id: 39,
         title: "Unphased",
-        url: "https://previews.dropbox.com/p/thumb/ACRRJqXo8YIve8HDc8meId-fqPcuJedYFQf2WqjG0JmsfMUa82jHWU6n7Ua9sAI6Fly9XU3Ip2O8VK6uuhcOPegRZIlxSgc0XQYBEFgY6EXS6U3kItY5GYgj3BTeJ3BKgwgJUyKq34Fdt-NFLV4v9z9iEvsZdA_yQQpo3YNjfHpue6DwpsVx3URbkNZ5GN0tVMv_W_U3acbylAYkJTaX8FEUVxLY_70QnlXHlbRiSVJ2_YuGscVipugyYUe36A-tjjU5cHxk7VG7BTLeZcjvr4NtmnKD-dVM2lzPu90p1YlLI54SYv66Ub4oLIJn0DoxFdlWJWEWNmEBDPTFhA4YDs3B/p.png",
+        url: "https://lh3.googleusercontent.com/d/1MImAPQHQdq13hO6dUJYGremsLjWbFIV1=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
         collection_id: 1,
@@ -34,7 +34,7 @@ const gallery = [
       {
         id: 40,
         title: "For the Love of Chaos",
-        url: "https://previews.dropbox.com/p/thumb/ACSeBoo-K-wVTWd6L0woMq3aOpaTWbPHVmdyRSYklWDo-0Iea6lgLATQtbAJ1myHnUBem0TMxmbljp6-cvb4omaPOC3l1tf7abQvu6DjJE5mjfQlAfx5HrU-lidDsx5yUiUA9DW6_Y-qnaKWkwUUM4anBNfLWj9nbIiuiPbn0qnOHZa0IYmunjibg7P1V3P9Jq2JAp9cZf3U1Tuvz23TubJTqVnBpRXWASU-kdN9Z0YhryNeI130kO_UFowHwKI72KF1BcdYlSO-RyghvUvQoAW3tSF034Ehl6JGDnscP0zs8oLgiKK8LH_uedKRS9uRUeyHJfuKOKyfnlPBPRywDdHD/p.png",
+        url: "https://lh3.googleusercontent.com/d/1IyMO8zGvFLGtKEh62F8lci6Jwg-i_iUF=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
         collection_id: 1,
@@ -42,7 +42,7 @@ const gallery = [
       {
         id: 41,
         title: "Unintended Consequences",
-        url: "https://previews.dropbox.com/p/thumb/ACSyNEqHHDeqkF5MSy3_YaZYWm74tUuS4hmMM9EOJc2rgPMXc2PcxN7OyUccr5O6szD7rq-bGwxBtNx0GeBmxdoF_va2OqCbOICyVtPBukwQVpnMBwcaNZmLgtyrDJu0cRPmR1x63XLspSDOf1neuME1WOFcIZxbJ67OO49FW42LNZah-XUApKTcR6xGAp4mAWshvgRsQU6AQqUHw42-0w8mG_3tmhOYARETtAkGaPhr5-HJsJ2NQ35t_rNCtjpCVx1AW6NR8jCMefg1HxnfEHgsaZqTwgh8ho3CM6Dy2VTLVsL7cHr1VWQEj35BxsYAf5klaxVJ66RC4DmKi696b4oX/p.png",
+        url: "https://lh3.googleusercontent.com/d/1DDf5fKCitKM2LGUoREUuvvP3bffbbw2Q=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
         collection_id: 1,
@@ -50,7 +50,7 @@ const gallery = [
       {
         id: 36,
         title: "Inexplicably Yours",
-        url: "https://previews.dropbox.com/p/thumb/ACSg9-WMnSrgAsRRIpn_XCbg88lUTY66MEUjs7ycNdaikapr_n9E7E6HiHztuP1tf9ogLe_YzOEhV8TQ-dyjHfxleR6QspQxXHM4fUUkx9mFdsUzNJCSzDTvpMwUsjnaHEo7PaFlhBFWnDwaYh8s1qYxGFhpVeZrFc_WQWBIbu30cRH6X3yCwU0t58U6p_vQktVYv4Apuc6mNFixPSHuzT87Omg1lo3nm4u-G02iCyuPsl1b67UQTLFYOfG0FgZXWNiURwqadlR1lKmv3lEo805YdFSGEluqRPBltqg1JnCeIVN93BnZSoAc9xAF3AwRYMf4R0DzRMCwfiIi83USgECd/p.png",
+        url: "https://lh3.googleusercontent.com/d/1xPclkvw4r_JSBJ8UworH5_aeMdwWZ6On=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
         collection_id: 1,
@@ -58,7 +58,7 @@ const gallery = [
       {
         id: 37,
         title: "Persistance",
-        url: "https://previews.dropbox.com/p/thumb/ACSl4jn_aMkwAPTjTK1vbcMYFk0peMOEn5PJO8-HxdufI0XJ_lOkuqCo0-PFPUIaVx8FX8ViBsvY3MVVcReDEUPxn3LqmdC1FpYMVo0jNMKz_tRn9PibkwCjqXEO156rkuxRSZh95BO-cIMo0ZygNd06dJReXxHQOkpzfkCc8clWjuWyETiwdHT9d_1w4E_18DY8rjtrMU5vVPVjTqQYEHbnaPXKvdAxFDG6GTzAeciNmlClDb8t69RjGvDc7KGdI2Lu_ryctGTny-j7sgqew5HTy8nlqqFSCRYxoBrorGGXEkMRTlQOFiFyzmOCtyuSmM2teNACvqZt_V8K7eZn2pVO/p.png",
+        url: "https://lh3.googleusercontent.com/d/1GvN-Ohy42O9ds6igE6wRaKZu_7fss0Zt=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
         collection_id: 1,
@@ -66,7 +66,7 @@ const gallery = [
       {
         id: 38,
         title: "Stagnation",
-        url: "https://previews.dropbox.com/p/thumb/ACTqhUt9sUZwtalXizOSoWmQJpsJntau5wHH6Rt6JMa0nPqUKJVDet1LWU5ONctSRez64u30bCfwfJXu-lq6o0Q9rVmppiFvW-ZNrjNiC8z9MLqUyj55F1G5SFSPTrjKdvGjaZWsg3_s1xD0Rz3-x1d_mYVIng7M2gno4Q__qgARHIInB_caZXy3u4VgRq-m2lSE7k-EOzFyo8QTww647Esg384AlX4nPnOv2sTY2mcQeYYLL18107mlP6hV5ssrxz4jKtJZMN4H_OPNB_xC248nXMQOojU8miSYEj35Bpnmnrp0hRLN1F55t3ZsNwrxs7N0Ju8E-5R3Sthnjz5YMVFy/p.png",
+        url: "https://lh3.googleusercontent.com/d/18rPwsxWPC1_x-hOv2lbhKFbC11cr7kbf=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
         collection_id: 1,
@@ -83,7 +83,7 @@ const gallery = [
       {
         id: 1,
         title: "By Any Means Necessary",
-        url: "https://previews.dropbox.com/p/thumb/ACQ0B6ZKwUnCNCLA2kbdVQXyUXLi5n4j5LbwYpvoX0WhknjIWZ5mRJ1ksNIOXDJogTQwl_uFGd6NyaK5zo6A2JAxrASKfKKUf77ODgmY8il9E4tVqVSAl2Y8Wt4wRd1Gp-3geIal3nRPm-D0qTmiB5ezOHKcNfOD-h8Idi04cNevITjotj-CobtAmcxBONHd7rQQITYrMyanxHySycPJHWdwoy0c96rvlg7btWM-r7YLJv6v2sOySOKd6QbnDvjmvrwviw4yZOFPcQuh2OVGL37V3uhyq2HIfoU158k-u0HuOZWNFEPbggD_8f9GZLm30T6FUdKpyXwTfGTzL8gGy0SQ/p.png",
+        url: "https://lh3.googleusercontent.com/d/1kTsVApLL160ca0AUbI3hRP4aMbJfkcIY=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
         collection_id: 2,
@@ -91,7 +91,7 @@ const gallery = [
       {
         id: 2,
         title: "Words Are Not Enough",
-        url: "https://previews.dropbox.com/p/thumb/ACROEJullL53ef8WzOWonmn6oDIA7_WLwUJLEwQEpRyUw_eEALjnfCjrAuXFanI_Fzl7SXTVrDpe37XXzm4orpVR36O1zg1ODTu-HiABhEsbA0YkK4iijaXmDcYfjCWjidT6jfxSkMifXRMdUEhk69pzBTxc3B7ZQkQsE_ykx5IDplFv_ZLVkaaNUyjrmUVODGaRaOa4ln8pjWNMLrIH7yk2Wr_xl1_6hxGHTUE5KUlhiqMIZaAtjbbmnpi-qv9gDpkna8IVyvPuSG8ROp_now8X0e319FIvS0v2vwUXAVggGivdiLRQ0ueJmR31dc-l3RFZiH5VO8siC7Ups3jo9ywi/p.png",
+        url: "https://lh3.googleusercontent.com/d/1wJbmkKjoccpdlILYykKAIFUprUJFu3G_=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
         collection_id: 2,
@@ -99,7 +99,7 @@ const gallery = [
       {
         id: 3,
         title: "No Flinching",
-        url: "https://previews.dropbox.com/p/thumb/ACS1C2u5jmCbka-4q-kQIfoVIxaboX5uUkPYL0VIJbUCtukZ6PLzM229AsnqKdiEPRKT04eGHdxGrpZd7xfc5uZuy5uGIwe6Zuzj_quYNdNTEkayHLQ2CjLL3geFKBQtR4ciC8wvXR8GueywtcHMVJFN9UWQ4NzgKkj1IO8omAKWusfvl9O1kqanvaPcZ7R150bj2QoGBlBKgIma8O5UlL9OD_dVoXXdEMns_jaFrXIDw-QLdXAMYSdquiwUWuMKqwpzD5uF5nINCUNevXkVzS-WTKVQK_xbElW4pMN3Xg87alQf-CiMTK_NQ1aZ710CSQC7T80OgycQBkbYlPqHdjcK/p.png",
+        url: "https://lh3.googleusercontent.com/d/1w8gNy3lZCtRFisgPeaTt0EdGg15ab7e-=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2017,
         collection_id: 2,
@@ -107,7 +107,7 @@ const gallery = [
       {
         id: 4,
         title: "Post Coital",
-        url: "https://previews.dropbox.com/p/thumb/ACRC_cuBuvmgr7e7MLlxLjQcDh-GJ2V4hIKy6ObzkEnlNVPypDEmLilUr6TKB6g1Q4No28fCPHVpCC922eyuRhgxVCUI-BNDiOrDRWwjnDBu6KfGSO0Q0GQLkdNFNT29rnxoUDOyKel5GVMNElTGiMGAmEWq-eqG9z9RlXr-PsYxXeddaevkeApSMDhO6W4Zk241Gwz8OZcaioX0DxWxmzVlY62Fk9PQlFCdmDyPPYxB7NPw3eNugOkrRholfuBKF2MGt--d6XKL0KGU8ul8OwqukZWhzowkYKWR5qy7BFC1J2-yMdDDpQuYR1ai-gfcndzpIp4iqx1_TKAByXi0NvGV/p.png",
+        url: "https://lh3.googleusercontent.com/d/1JpDdg8XGgkd3fEjrT_vbmmiCQ4uEYdUD=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
         collection_id: 2,
@@ -115,7 +115,7 @@ const gallery = [
       {
         id: 5,
         title: "System Purge",
-        url: "https://previews.dropbox.com/p/thumb/ACQBURT9qfhtbMtovghSO62pzWUMAeWt47B-7vxZZEAHhk_sUO1K92EGilo8PYx9okScUJVgBXAG5WIZcGXCIvXxrqWVs3fa4G_86YQon-wOsHcAK6Hp9Cd_nebxN9FSkg7gBFtqUZpD6eJMBWawLWTZsEKwyVn5ncQOq4zDx1qDGBHsIaM1IvrJK_ep3ZaFBhnx90tj1zNSK2b8oMgszqWTOKABzY-PtngIUbZm3GuZ13kbYIN5-zDvUwzu_dYTzM_J0RG3gzOz8-HLZyQ6sytGRWuq9BIQJ5s1Iu-pVhXYc6LNdMXNfDGExpTQupwdcpUr_l3FaNgDqLq_zn6GupJB/p.png",
+        url: "https://lh3.googleusercontent.com/d/1Ava9Iog0R9mKTcLIMtEA-oGUz5A47jev=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
         collection_id: 2,
@@ -134,7 +134,7 @@ const gallery = [
       {
         id: 6,
         title: "Cast Away",
-        url: "https://previews.dropbox.com/p/thumb/ACRlZ374a8XonUlXjEMPJiIfsIehWWxrtn_bBA2IZxQwR7NyoLaOMcQ-g3xlFel4-SBNGcW4VdouX8kfs61nXvO2odZsGBEISksl53gEhvBsb_jwQivGuAI361ey5AP6_rbJ22x7q8KR-zqztrfQOej4atHN-xqHl6luQ3mlnffSfI3iI2DTFJZr-5q7xKK6n2ozihrTQaHpG28we_uZFp3ukTw0rVGG3Yaiz0jcd-4KGS8z_bo26nsBTTcBF7KVQKpn5R-zGsECPFnWRk9osKS3dxIY0cqPYah7GEZk6igkxXKz1ydJSZT2kGgnpVy1oFucbBL1cSgmBSDu6_y0t5X6/p.png",
+        url: "https://lh3.googleusercontent.com/d/1NDLDCgSRGOcxY7KAsQqwnhjtISXO_TA_=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
         collection_id: 3,
@@ -142,7 +142,7 @@ const gallery = [
       {
         id: 7,
         title: "INK",
-        url: "https://previews.dropbox.com/p/thumb/ACSm_CsfKYvMl_z_keSR78PJWy622AXyMGfEJZus0v_3Gjch1xDKHcf3Q01IjoKkz_kkm2wwT0KzJWUhKpgXbSY0CXCqtyzW7wmG8aFHvbdQdTooRas8bXGoE04Ji4pDhqt1d-WyQS7i49n-cldCXtcF5QYvPN2oy9hRizKC9PxPcdEvC8g1fMABElMkl0okY9RyZosCbmb8D4i801W0y72G5XXluxb4srOE0j8bTMHBNWLdXTEz-zBisaZmjZLMl7sjDn8XRCgkGeqQ7T07FdUUJpjEAoUnuE2YBBlc9ov_qGHFFHhAZcmVIGv3ZVpOaq619p0mGjuNalegtaKZsEhCUwtHdezUSgZovrfIO0OF0w/p.jpeg",
+        url: "https://lh3.googleusercontent.com/d/193vsj_Zhyx72S8AWrIP9QMUsDwStoxPF=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2018,
         collection_id: 3,
@@ -150,7 +150,7 @@ const gallery = [
       {
         id: 8,
         title: "Fire Below",
-        url: "https://previews.dropbox.com/p/thumb/ACTzQRI0EDVMDpEspwe0fWmWL0Mmdb0gY_UYMQxSah5NAEEXsYsNh4lo3fhkgGc24WRY5ePr2GeupJO4GwRChi5ZL13sEnDbMWdpXwORdRj1Lp1YpRt_1upZFp8GyGTI03A1EJGJv_CNFNfEIXF4LZrFva1nxrYY0dEj3fRmzXnk93Lr7GWilk-djJ4nWHkzWHYswJkPeNYNtTsxylxmxz0ci7Q6qcV2s4ZXIk7AYeWC32-vIuaz9JQG2jamqQCEP-w25vvAcRcJ0S9O7-2YwqctTJkC3_ex_-sZkvsaxbn-auikZYD2E1dNKZk_y-CleR-36pauCzPpP7Y5WvRQuKGy/p.png",
+        url: "https://lh3.googleusercontent.com/d/1EKxOcIlsKtMXynQPn58v-W3jd9zoWa6K=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         collection_id: 3,
@@ -158,7 +158,7 @@ const gallery = [
       {
         id: 9,
         title: "Moon Above",
-        url: "https://previews.dropbox.com/p/thumb/ACT1qGmtiK18JbLTHoXK2GkdA1hcNbFtkLXebACInXFX92P_mTdlRAf_j_SGZa-rBmZfSPiiCCLu9IDDPgc-oOv8vij-Fe_ZW0TRYoZuW5yE-4ECciHjwDaCOLA5tTzDpV-2DPcrPrZHAas_HIv-DI6bz2fWZ8jLy93S2CA-x9otb748YNnA6kn0mAn4iqDvfDCdP3VCs3KLagl596jqOI_E67KX4B0ERuv5qeBDeN9Z0FSytlmf0f6pKrtrZzZICO61FdTC5GW7_6EzQCQnwCLWSeXviQvUgo7v-ERyQSKbAE_bCk8_Kzldg8BWTma93Jz6bQo9g1ksm2C5Tyc44aNE/p.png",
+        url: "https://lh3.googleusercontent.com/d/1qXf5gPy7BSlwtCl0NBgo53_jmim8FYgQ=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         collection_id: 3,
@@ -166,7 +166,7 @@ const gallery = [
       {
         id: 10,
         title: "Self Sufficient",
-        url: "https://previews.dropbox.com/p/thumb/ACRDsY37MBOnlOU_zXmKo5TNxASZzFZL0-Ns0hTZ8GPLj2tadMvQIONAwlSBoaHfhsfsSXdhfadHVexZvpMEKt4PsFrei2ac6TQSIVrxUQTQNOQJfWIZ-p25FsBKmwle4GK8teFVZRwPSEhBndP1XF2Hs6Stt3I7ORERmB-EF4GJh2dEJMzDkZJWhBfPJVYrUT8zFQyV70BnehcVWIc29pUwG3OzCpd_QBzJ6y9Xfo5JFbAGJG4HEdUKtd9bFBxAQ8D-JXG3xzpSdK2jfsb6MBAp6DYua-uUVX_M9hzbpgbNZuDsYdJ2ezlpKIWJzMIZWbGvDinhaUd2Fh8g4Oyls0gR/p.png",
+        url: "https://lh3.googleusercontent.com/d/1gMtYXFijw2UZtFc_pt5ii-x0KhNywTEk=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         collection_id: 3,
@@ -186,7 +186,7 @@ const gallery = [
       {
         id: 11,
         title: "Catalyst",
-        url: "https://previews.dropbox.com/p/thumb/ACRjY6rgzGMRPvnLwk6fPLlHe7B1MvYwrgbWqC-Lopq4PgJ6YYcOipA4G_4c8BlMu_GDibYtUkiWS3MKYOV9UaTv6Wd7Fc9cniHbHsRlxdCurL-kQR93V2tQ1u0cH1JPjB8s-umRdZOsjmFY1xiY48WlrsxtdqPkyfAs_vS2CDQR7I7-SXBtEMaZG2rutcTKujPU9oczF7fMtqfwCp8OLyX-cerMB1JQ6ZToqUqVLXMXxcdphCcsRutYH__t9U-q5XWvHATyxlxCnUKiGWCy1qQM3WmvNFJIPBA-CEzaOwOTlQMnidb3lZJLgQNHhOwyf0gRYiA_hFLmJA5h3DGvyoOu/p.png",
+        url: "https://lh3.googleusercontent.com/d/1IgOh4lkU0D2zsjlXXi7D6vEf48UVUnvX=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         collection_id: 4,
@@ -194,7 +194,7 @@ const gallery = [
       {
         id: 12,
         title: "Discordant",
-        url: "https://previews.dropbox.com/p/thumb/ACR3yRM0ejz2La2iq7I4G3Ef3h-ioKVaPmBY7zw1rwzItYBiV_JWAedXnwTF1tgZBlYpXNvh3ZKiuxoA7PZduLuiI2orVX0vCZVaX_pC8pAuo9nMOL3RSbYfwjgpwHCfWqo9YJKV_uLAhiA_neKS8GLkqE6zz_h2fBeyzEFG1GUw3cHWUbRVFhyioASs991aY5h7d6Z6yfLAB_tcktbw4ttb0MHZnk7yo4IYea7N0y0N6jYyr3PQHiXVi-BmBujoUeBXCS65W8oGWY8oKPm5yah510QPMeJaeX4UtorbLVZac-eknxBl8o4KjkxG1rZ4rjp_Dw583J-BZIMqeMFa-COF/p.png",
+        url: "https://lh3.googleusercontent.com/d/1c6pB8Z67CpGj44JySuMXy5-7iDsFmvWP=w1000?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         collection_id: 4,
@@ -202,7 +202,7 @@ const gallery = [
       {
         id: 13,
         title: "The Price of Wisdom",
-        url: "https://previews.dropbox.com/p/thumb/ACSI9Psz1hIw8hAtyfdIpbJcJ6cZStcSs9jWAfaQ8kAXdiAor8hXf9LW_FeurRZ9QTvKEyk-DcJqSsRwfJNJlA6ChOmY5hN5lVLBW-l8Kz59wMqhzaToVK-nkpYbRz_LjqMbcu1hhuN2LiL5d20WZJqcv85n_PM_AtH2GyLN72rI36H8b63fay39V1DOPW2wky_Pr5HDuBHT27gsi_pMg6aHdaPJpp_g2g9X20cT6_1mfxk3ENlYSC7WNB61b4H4d5BU98oWkdv4JNV0y0nWwTc6zcKINQyq4B5u7eL8sqtMI3itN5kxWgYa8ds_sJE1xiA9HjU7mW6XS9t5Zv3jhLlj/p.png",
+        url: "https://lh3.googleusercontent.com/d/1mp54dScgvmyqijpKZoIyUhIZbkEj4Bad=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         prints_available: "https://society6.com/art/the-price-of-wisdom5724037",
@@ -211,7 +211,7 @@ const gallery = [
       {
         id: 14,
         title: "Exposed",
-        url: "https://previews.dropbox.com/p/thumb/ACRw7kcvyJMQboujKShXiNZJ-XPFJdxHR5GXwRk8RHXr18LVfLKWfHkK6QoF3t4K_RLnzJJ-aN1ybwy2hM5QuAg4jAIFcbN5Lr6aDkGsZ9t4tHjxVVEP_s4b3U9RtmdCAm4FLXAwyU0IABn-tqoU_FTujGFZCDLO4jvIO70b_JberPdUXAJOYUoV4_NWtWaZpWThqUzgjAZQixY8EOVyQCWvSkD__t7qe_0gmS0AVEXznlvc5CzuDtWHBCpj8EXjKPdFvPw4OYPh_6Yxw4ibrDW8e17S_BiDSZcWKc5ZrtN5RdtaQsTysYpXvcdux4SbG0JkVKiPtTwovZGNoV36Q7qG/p.png",
+        url: "https://lh3.googleusercontent.com/d/10uCk5aoUEGB1lf-TCoWWTa_x8RBvIHsQ=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         collection_id: 4,
@@ -219,7 +219,7 @@ const gallery = [
       {
         id: 15,
         title: "Indelible Lines",
-        url: "https://previews.dropbox.com/p/thumb/ACRNhzJHfMHjFTzoPyWOZEr9KRAbXqeHUvpUN6f8PmLWSEaartd_S2TVCAPLItdZLLEKwUOWeSN5PRStomhU_Jv4a2MtG6V--t0Fmi3egLIuhgREUhhMxiQnLfZBqXneqtc3CQdbm3ISLun8KfI4eOsNp_jJm_8BAIREtpFHNAp23UBS6qchByJhd3Wd7ma43W_GWQ5sCQ1X5ir4nxQ6fiRFYvs30GRMTcneSHN6EvoZPU3V7As6cQrd9aNf57sDdcTjiYiRqRLPxF02_GCfiByOY7Rz8Jzyw-SqSGSSswj7LXQKClrJFqkPe7JrOfswxc1Q2w0mOXc2yPdc0Qfny-Ib/p.png",
+        url: "https://lh3.googleusercontent.com/d/1pae9tOj7QPPPOmuUiRl5hvCoS9owsLC_=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
         collection_id: 4,
@@ -227,7 +227,7 @@ const gallery = [
       {
         id: 16,
         title: "Liminal",
-        url: "https://previews.dropbox.com/p/thumb/ACSZfE6Aw0h1LM4KKL_qS-F-uuCDu9O1vtmiIKNZerSefXVp7UKcN5Z3Nxz6HuNIMIyiMJkYFWqaUTBIvik2BniO3cSkdN_YjG3TUUaeTft7ECkiV7ucXK4iv8M8S_MCpeDbN6nRTwT0SkjnqeGDEAkn2d2c7tuXsQAPxqALBZOSv1sWPNAftHVdA7zD-uwNELunwIt7gw56aDUPZaLNqVl1ueKh9KePUIL8i8jqKrTvD9b9IF-3wByHUZ_enTD5NOMaJv6xviUfcsfjCFtXByrp242o7Mda3gZytztvJDjdG_h6H6T683UG1n8qcOVKcbjpG8-QrpF-kiCEle-uG5RU/p.png",
+        url: "https://lh3.googleusercontent.com/d/1BqE3E7uk2eZDtfl7zLVyXWRt8GZvSh2a=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
         collection_id: 4,
@@ -235,7 +235,7 @@ const gallery = [
       {
         id: 17,
         title: "Reconnect",
-        url: "https://previews.dropbox.com/p/thumb/ACSjxRNv0M9KoKC-Pqc8dh6U5_1XPKK4NG9a3c31G_ykHNzb_fQ6AfX1YJh_uIYTCYZEkjdBLhfSFTMCPsuvx7SXFZ8bpMKIj6CGU0Mok8q99NaxGIEYhokYRWsdJL-RYhl45RkIvooyPI3_XIyOib9h6M_HnOlAUkWvsbDO1gFzDxvU0vrAR_fnwJA_LQm1oOO9lVXiTHjwT4yQHndj4Km1lzjHLVfTP_h8a4og_FEl1a82yBPWCzQu5yHSGbkunPougLbzvE9OSy7h1coCnT4NlCd8gV8j9kZHA5litNhGLxLncEY_AmMOl4XmTqurRWIXTfBOBZ3YYliWKZ4H2w3y/p.png",
+        url: "https://lh3.googleusercontent.com/d/1_sbjTPF1NVtmSzsGaYXIBYK6rgGh2uuT=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
         collection_id: 4,
@@ -243,7 +243,7 @@ const gallery = [
       {
         id: 18,
         title: "Refuge",
-        url: "https://previews.dropbox.com/p/thumb/ACRHlPvH6cHoTiRcueeOTXQj3YCcepn5jRCMdUbJ4OVeBvlaDyCxbjov9nSMCxKsKx7VwDDM70IVAQ3HEeHWm4HoMZhMQ4bDAvqJTogD3tcvPc7mVP6t8uICa-kHDAupyPvXU4i59QISCE4OwIrxSQu5AjHfiV3ov_qxJc4KWIvd_O9ib4T0Ho6agH781sXf-5JV5Q6P1qgDMCQEKayHzTbBEgNC3VwSTqM3GtYQB8M8ExAwmdlIDW2NidJP6aZh3WrCmhWqKe23Tp2cIrHFENRw5mp6gPKTXB7k7RmgvA4Vw5VL5kXFWsGgFp0M4xYo3jSFRo_PDDL1tlAMZPA-Y2Zb/p.png",
+        url: "https://lh3.googleusercontent.com/d/1bsTeFf15jWkLbOtXErXkTefJ3o2viz0G=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
         collection_id: 4,
@@ -262,7 +262,7 @@ const gallery = [
       {
         id: 19,
         title: "Commencement",
-        url: "https://previews.dropbox.com/p/thumb/ACQu5SIq1JXGPpC5Hv8-CyvrALDjryvKVrDQxcwIDS1jLIQBLOHdlqsz81aoaEq4b_YSWVdmBl3SQAhgaewz2AJJFzQXVUqphRDSUIDsNCap3qYwNI5PzzNeJis3wxtKEHdkslJ59Ovb3LtRV0n099tAnW2OV28DTnpCLk3fhRMv-JOuYUuWfj7lbxrHrNnyUMVN5IpukNDGY7AC0BV-JvInvHPTtVlxQDUHd330nrpEbZHz74vYTG_e-z6dlUSnLxzYfqdsbBgjWSe4yoPq6KZQqvxE34UbEjuHGxfpo60TDm2L2Maa5o0-QycFwXO2xBuA5mkvqBYanrYOfMmdaEPe/p.png",
+        url: "https://lh3.googleusercontent.com/d/1Ov_2eQAYURjYxUcvh8zapz9y2UBeCjsD=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
         prints_available: "https://society6.com/art/commencement5850545",
@@ -271,7 +271,7 @@ const gallery = [
       {
         id: 20,
         title: "Assembly Required",
-        url: "https://previews.dropbox.com/p/thumb/ACRwSRL42CN-lenrBIZjzuR_9ahKObrAuYXQag9B4B7DTG0IG9q4cZFH_y2LTUBZ6KtQDLVh2q1JZp_AGF-d0err9fBTrCTTwuQCHJvspXKCvcOaSUT2uxpEsjUxX_DkxOZfcpNHjkvaSHgmZXX7jUiF4vr2l2Mcfl2-veVx6ZrZhHjU0ai83VzH5u52gL7gcX-7zS9iinOAt3N9BkWjcxCok7aZr491nKvyMEahJ9G0nGJ3JjU8DeYtp4XX4YvlR8qBYdgltbP72dKNTlXnXL5VXyRtr_fuYvB_oBvOulZakkqjzYP4rpEIKR9yzj4q8hvK8WzOq0EGNgFnhddsIk3A/p.png",
+        url: "https://lh3.googleusercontent.com/d/1Brr52MkFs8vYJi6UWUGz7bH2JvZvcDq0=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
         prints_available: "https://society6.com/art/assembly-required5724042",
@@ -280,7 +280,7 @@ const gallery = [
       {
         id: 21,
         title: "Emergent Behavior",
-        url: "https://previews.dropbox.com/p/thumb/ACRuVG_ltKUaB3GoA7HHyTJk8uTg4T1VHcVo9VbHd2pelNwgwDe-QgRHnWV1ouE6E9GhZB-HDzdBABEXmWB0X0Apswl8tp5XDz1Ax_xNRihqZ2Nvgd4DffR_K-dmDSr39mQZYU5lQ8wHHP6sQ-4RzjOlZtxuzrsbQS4iWPws7JUCoGQpkMbSc2lEZD1BHDM8TMplL5EpMgOLjDoCMpqKwYmMf-rry634F0mIGxEqV9Lx2U32ZibOktegaX99QYFF335g4xqIM-Aqg8la-JLaHI2yAQl0jlQMALMzPMMRX65jDOjf-KQ6tjA3UOFdqOJVu9IUgxyTnfFr6wxpL_G6nBhj/p.png",
+        url: "https://lh3.googleusercontent.com/d/1aTqE-mBPJW2yjyATw7UBQpqE_aB_O0lf=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
         prints_available: "https://society6.com/art/emergent-behavior5850563",
@@ -289,7 +289,7 @@ const gallery = [
       {
         id: 22,
         title: "Incoming Transmission",
-        url: "https://previews.dropbox.com/p/thumb/ACR0Pqn2-zatVh36AqOJAZCSWNXrNmaniewlAekSrjBMzbchwp3D6IZulLrPW8Q76NNedm3kNTgYmcl2fNawarvmhwah4YkxJUKlWKME-xlxnP4e35Dcc0rBGHuFiAp-o4PfO9xhBWDXqZVuUlahxNJumjJ1LdYUAlIU9K249lsx1IF-muddWP5ScCovHy5fhnIAikFCxI5OR-FCyeNV2eHbn97ejMV2pIxPE1bZVRgOyiNi-p4eBBpy8ei4RkLzAVjO6h8w6jd4gjoEai1sKf9HM_Lj0BnM1g8HLM6Gkbp1e5w_FCaGz79p0ZcZqjNyuPRGIyLNgVrx8a_0jXN0d552/p.png",
+        url: "https://lh3.googleusercontent.com/d/1fs05jJN71Ed8nqQ02u9UMBW6FloWSQcW=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2021,
         prints_available: "https://society6.com/art/incoming-transmission5724039",
@@ -298,7 +298,7 @@ const gallery = [
       {
         id: 23,
         title: "What We Give Away",
-        url: "https://previews.dropbox.com/p/thumb/ACRqXJY6NVEg2xQpxxS--si1oafkju5kqI_QpmW6fmvKc4ODt14DkhHSC7ABi9rOUFIwKA7ZxsJw5bBZJD7JDLLHW9cIdlv5vcGsfp-ZdB335QKpiLCPZMbBY9BiC-yXq2FLmjV3TXK3ugaBs3AamRPM4Fcxcd-r3_EENd0FTKdE4cTzlwqe5yt9reIC7qK6423EM3GUTz6O21sy82kgXier_VW9u04-7M2B9oetDLE95sxBXpl02oyy61MAfFo886-ZOdEZYbw3FWfAWFT-V2nDe_U_NbGIz8LtBePTO-F3z2sxJmH-MZHR6ZioW5oX-5zjXpgCR4zrQxo4iprc-GrB/p.png",
+        url: "https://lh3.googleusercontent.com/d/11P5CNmnQBoUQ86ghH-mr5QVM3Mew4E9C=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2021,
         prints_available: "https://society6.com/art/what-we-give-away",
@@ -316,7 +316,7 @@ const gallery = [
       {
         id: 24,
         title: "Self",
-        url: "https://previews.dropbox.com/p/thumb/ACRsASU3fUYN6mhqxEBZ6Rtz8srPvuAaQy_YmtnPGevIcauYL0ePV_nqhbo6OgymHaZzY_Ej6Nt4feUuF0dMTacpsvxZs3uBL5-e4_US6reuZ3aZGBV1ZszxMKGFEkbJXo77E4pQeCtLin382964j200ciga3f3gZcACm8FkBdUH71cC_4Wx4lGlqiumpypilm-ggDLiu9Os5akJHlghLC9somsRrvdvfgEQvtLqF2hgzSR7nanpzS1PvhdcfgAEANcPZK6nocOq5cRyZfyBV-sJHwy2EcchU26xm5pUu14pOLPiOaQr8fyhqkmkq5nfAM8c4cCBIxmMYB7eO3aXif5x/p.png",
+        url: "https://lh3.googleusercontent.com/d/182YJP5FEn7k61Z-m8UBuDwTZrydonTWj=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2021,
         collection_id: 6,
@@ -324,7 +324,7 @@ const gallery = [
       {
         id: 25,
         title: "Direction",
-        url: "https://previews.dropbox.com/p/thumb/ACTvNvwJ9SFSbWZd_7FxC6b13VWF7ebfoCdgN_DdA9HiivoZ2N2MPXHKF4CflrZzotvNbW0x3xrFyukDmQBUR9wnZ86J-KC2KgiOCkSeKSfVJaTGudxB6FQxnWrUNqXEOWdZxGE0zo_heWj_hEu1FrnplFRjftCLATeKg1mC5aFDkxTM3HUxCmiWO-pfcW3HQM10Gk_gOcg-NAzhb8Tv6ANSLRm11G2gopfgdO9vVuffvZyI9lwr_j5bQ6bdTwUwxYEoGfdRGqKNkIAvbAGpysnIzOgCxeHMiFo1TU54UQNlyeyZuS1ui9Hiodg1J5Zaul4A9eSqkhq_V9SN4WbuBfPu/p.png",
+        url: "https://lh3.googleusercontent.com/d/1eSc_0g786fQYS6Phi3ANz33CqjBAkc5b=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2021,
         collection_id: 6,
@@ -332,7 +332,7 @@ const gallery = [
       {
         id: 26,
         title: "Power",
-        url: "https://previews.dropbox.com/p/thumb/ACTmYXiwBOD_5ElGGxFBKRwa3wNovT-TFySggoWDP5-j8xIv6E-jignKdCvsKZ1mH6bLeOM8gvQX_fSkf80jFJtsm3Y-JgUayM5MdWMjNQRntrxbMMjG4wedt0OZu12T-4c1rW-O1ohuO2ivIlrts38i5cKSGOfiM3n2JCV7l3ZPDprh9SeznTiWc8VtKfqtlV47lXphzn8CudhNZfGddJpXZcvTMO1Hu1o9S8Yhz52KYSVv5P4OpIf-1-NVv5raAJ9vnJQ4eMuZ1-4-RwuEcXJ0vW5_3fzA_oWHEWWiv_v2glAuN7MbG4vBk1mHNwNKcYsv-VqnoD6fScSKvqHNb9X7/p.png",
+        url: "https://lh3.googleusercontent.com/d/1JuYeQ12OlZYBJUkU1hggg6zJWSUqLfIv=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2021,
         collection_id: 6,
@@ -340,7 +340,7 @@ const gallery = [
       {
         id: 27,
         title: "Love",
-        url: "https://previews.dropbox.com/p/thumb/ACR4jsQSuCnAFeTbcHaR1WckWM1GCdOWq9bFLpbBAUx-m5KSeH2c4q09FHJwBn1bsUXHQximz5v7xp-Zt7ZslcZ7ao1gbZ1xcwln1iGzORBA2oULY8XWB8XO3fzmHPHjgMZBhCVbvfQUFtxi-cQV5_RfQ3QNtcHRjyUCm-aKqn6pByfRIHWHpFiS2uIJopUmPPPbcChBKn68IbwvoY90yjyqP-prlDKchH_roTqhvfi52KtcbeVJSJBq_bP5CunWa6tsJA2xCgh7YnD1Xt4706bYGdRUxVVqW-677tQ9Jhoy51hj5HPS5jak4NchmgwQXekLHNjA41swtk-MhB01re04/p.png",
+        url: "https://lh3.googleusercontent.com/d/10WFsNKG9C1ViAvFFSdbDaFJA8xcTjY7j=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2022,
         collection_id: 6,
@@ -348,7 +348,7 @@ const gallery = [
       {
         id: 28,
         title: "Enlightenment",
-        url: "https://previews.dropbox.com/p/thumb/ACQBG-nZQnAbhvZcMAyv3s-eRoZ_CL7HaZjB2sWpOk_PXAqLekT-whMNZh2CiCi0BevzBhcl2Etm900poc9R-b4iYUkVSsaql_TupDlQATwSN20rF4CK7GdzsWSGKzGHZEHYPiYya3vNgizGW7VWLFbZJln0pOMg1V_eO_DdR3_byRrbZ3nU88YbOPRtmfitdsjoIqCNUaTuEdEJdnaV4Q_tAi0XM2UoTB96py7DXPKUBC6h5_3QU9XxXGfLPGWpHW6HDY7Urwugsx0v5MeZKM8c37wPgda2TRn0gf2kvbLPTq5hGD5O6vlmLcqk_ydCkZRP-ofcuoBy6q2qXOcY4NiE/p.png",
+        url: "https://lh3.googleusercontent.com/d/1iTZ2mc1-cKdQA1WmW__C7zYD9NGPbsPg=w800?authuser=0",
         media: "acrylic on watercolor board",
         year_completed: 2022,
         collection_id: 6,
@@ -368,8 +368,8 @@ const gallery = [
     images: [
       {
         id: 29,
-        title: "[system offline]",
-        url: "https://previews.dropbox.com/p/thumb/ACSEccyiDUwQioOGLr4AUxUzj1dRhNeU9H4WOTzR1T3gxr2UGrch0ka4W0_pPKxP6daNHqNCsyPIIZvcrwod34GpMMUFkZlOMBxfyf84WebR6L--S645OE8KvsCbSNLRmqiqHhS13vVJ0jqSXzK52uaZgIsxylSrPvENKCNZE1c6vlqVNszgbR8aqprkoKm02ljBlzjKeRMtqPe49i9PlciWzC0XE6UqOXJTyc6hUXWZ92tG7oXF7PZCrIMIM64cnX9Ej8LZWfZdQ0-0yXVi6OraBRSLIEGLVJ5fwGRznDjaEQWA2qMFXOUWpsz_9xLrwnxMAvis1HMdEp3YcVvS7AWA/p.png",
+        title: "[systems offline]",
+        url: "https://lh3.googleusercontent.com/d/1G3L62SWaGiIQh35_iiCjHd7r-OgbhX5Y=w800?authuser=0",
         media: "digital",
         year_completed: 2022,
         prints_available: "https://society6.com/art/system-offline",
@@ -378,7 +378,7 @@ const gallery = [
       {
         id: 30,
         title: "[shut down imminent]",
-        url: "https://previews.dropbox.com/p/thumb/ACR7KVH7LW42v3b3swRdq2vmNi52q-5neqJNcIOPkNqxq7gO2p5_1MysyD2KLRI5K6RhhS6XueWw-JCsP0mfzZN3TzITlJLEwBS4C_Kr07fy30UOevcRKE9NdBLFIBK8m-8XMRAOr8DNBncZtgvgnS9NCntrA_D4_q_bRqimT9qFkZ3HXBlCbQ8xlR2cRKM84oha-Y-fNA5gp3_onspC41rC3ENhVYk5rY6M2iJndYX3fdpOIkDjPhJ9viYsKYQloamKUUKTf0AqjoCj9xxAbiOOeofzrHKxNKtml9AMalfMQGbWAEmrfeWIfCyuRKMzw9g2gk84aftx1kvsV4S_Thev/p.png",
+        url: "https://lh3.googleusercontent.com/d/1vTgEWIm8KH5LY9nwWjvg1A3bIPMWtBfo=w800?authuser=0",
         media: "digital",
         year_completed: 2022,
         collection_id: 7,
@@ -386,7 +386,7 @@ const gallery = [
       {
         id: 31,
         title: "[unknown entity]",
-        url: "https://previews.dropbox.com/p/thumb/ACRxeI_yRsHOzKn0-7FTwYsZb6uCGfJe_Ha4hy7jLs3ON37NtZ7pqGRAaLpplzZk6mGfq7IQtq1vrneyIxs9RlWDHm8sbITt8PkE3UI_MjZ6sZAjPaboYV6rpb5aPWcbvwb_y10x00p-Ja_3B2U-QF913h-79_yqaxGo_DIUG1hso8QIdiqD2D7A7bP7XR9PEMAsBFpZGHeWbgZi0ZgMSF7vTJxtzUXCpWIgfCDphv_FKm1mlY92-CjlE350mJ5Ujv-SQvoDUuzao4TgObtDHLVoJKsi50tU8IiQcL7ChgCo_ZA3f76mWn7kYu-tKuXdufCM77nyYk12ms6sGhJm_zVF/p.png",
+        url: "https://lh3.googleusercontent.com/d/1M8sni7oUOwgSCDlOvYFqmnICwIw5y_zl=w800?authuser=0",
         media: "digital",
         year_completed: 2022,
         collection_id: 7,
@@ -394,7 +394,7 @@ const gallery = [
       {
         id: 32,
         title: "[establishing connection]",
-        url: "https://previews.dropbox.com/p/thumb/ACQ16bTTl7tmyB5uMCZS5kziX5C7svJ87Um8LMtc3tWxCBNRK2d2UjfDYvFwCWwpx-B4HBtVv4hN5M5PxxGWhbmfW6FPEH4wvR_4RDbCUF4PJXrie7koOjfGjXKFlJWwv78kAIpUoUnfk-3LYEwXeUAwZNgC9rOqOmz6YL9wtfXa2jFicaeUv8_fIy9ftHyJNEoLa5u2wP0C6Fq5_BFhEeVBtKcnhhcBELQbslrd9-P_--_yru8WD6OKa377Pe8lTfAeulu-9QQyYvfPA3TfYg_zoifbpO9SP9IaHh97wjyDP1TkogRIz9vg4QVTn9AY81ZG6g5e-CEfIrZYYWGphtHi/p.png",
+        url: "https://lh3.googleusercontent.com/d/1mwwkBZF-lEwdHuJSQkUpmhQgapNIWB7M=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
         prints_available: "https://society6.com/art/establishing-connection8854255",
@@ -403,7 +403,7 @@ const gallery = [
       {
         id: 33,
         title: "[decrypting]",
-        url: "https://previews.dropbox.com/p/thumb/ACQI9qtzVUDP2yhhnO4sHh03lwh_NPomGd58n7GHKoHDJQdEOu5cCJi8bglQK6x8PSYZ0LWnVeVEWinZc2LyuaoD-_FI_IFaDfc2gzqAWYarhZkW6vDqYxpwHc0ikr780lcelTLyfJ0Upsfqgt1dY79nlFP1bVbMnsHv_cpB17WNjXK8n-4MVmajpqNBGiAemiKmmIpwRIwQrD9-smkJ3p6S9NHupHRIJeZUQWMciI_HFKinqZj1TuBSxO8Ohp-FE5F0-06V0p3q0humdl033QHJS4n-cYZ3e-epFYWUrI5ixms91bWhsVaVRroBmwFABhDahN9fgOQdbRiXn6GImv0i/p.png",
+        url: "https://lh3.googleusercontent.com/d/1oI0VO6hsO4TjdnO1BiJ1YIq5GHgjhl65=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
         collection_id: 7,
@@ -411,7 +411,7 @@ const gallery = [
       {
         id: 34,
         title: "[installing update]",
-        url: "https://previews.dropbox.com/p/thumb/ACS5FaVQUPB1nw__gy1FgOXuigetc9zY30ryACITiZg8bC1WTz7WO3q2NhZK2WmLk0XqxdhBK-c4A1_JEIGnwfcbAdMK57iSL0AZqt2l7KpLWfEPGB4oj2ED1u3uFh_g3diMfGfAMA62vFaAJlHjTMEydCOLtxMWyKtz9qfHf9Wu0twhvO3l7gpR-7DzDwh_Y6hdXJDyPtkbfb-Bma0ET0Vqsy3F-1fKlGSZXYWV9kOFyWtaOEvBJw8emT_vRepwcz--1FZ-3MC3B9Rvxg8JCiGVk4fE2LjUis3OGugnGeq4ru15q1Ytd4P4mnteYQ_P5qvQV_HnlontP0_zP4_q5yLK/p.png",
+        url: "https://lh3.googleusercontent.com/d/1ISuAR59Zr5MO-qPdDru0Btr6qHFW9bWs=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
         prints_available: "https://society6.com/art/installing-update",
