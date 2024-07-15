@@ -4,7 +4,9 @@ const gallery = [
     id: 1,
     name: "Unclaimed Items",
     description:
-      "coming soon...",
+      `Odds and ends. Think of these as the B-Sides. 
+      Some were solo pieces, others were meant to be part of a series, but didn't quite fit. 
+      So all these lost toys ended up here.`,
     years_in_progress: "Ongoing...",
     images: [
       // {
@@ -124,7 +126,9 @@ const gallery = [
     id: 3,
     name: "By: the Sea",
     description:
-      "coming soon...",
+      `Years ago, I moved from the coast to the desert. It seemed like the right idea at the time... 
+      I spent several years living there, amazed and in thrall of all the seemingly alien and arid surroundings. But, after a while, I just needed the ocean again. 
+      I didn't have the means to go back yet, so I decided to bring it to me.`,
     years_in_progress: "2018-2019",
     images: [
       {
@@ -173,7 +177,10 @@ const gallery = [
     id: 4,
     name: "Crisis",
     description:
-      "coming soon...",
+      `In times of great distress, it can seem like all we have is our current struggle. Nothing else exists. There's no room for anything else. 
+      But that distress can be an opportunity. We start to crumble, and we see that there's something underneath. 
+      Something primordial and unformed, but something all the same. 
+      Something we can shape, if we only try.`,
     years_in_progress: "2019-2020",
     images: [
       {
@@ -247,7 +254,9 @@ const gallery = [
     id: 5,
     name: "Embryonic",
     description:
-      "coming soon...",
+      `Every major life change presents us with two options: fold or evolve. It's a chance to go back, reassess, and make changes. It's like going back to the womb, but with all of your current knowledge intact. It's a significant and singular experience, and no two progressions will be the same. 
+      Every time we remake ourselves, we learn more about what makes us tick. What we need, what we don't, who we are(were). 
+      No one stays the same forever. Or, at least, they shouldn't.`,
     years_in_progress: "2020-2021",
     images: [
       {
