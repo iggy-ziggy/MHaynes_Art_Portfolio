@@ -198,6 +198,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1mp54dScgvmyqijpKZoIyUhIZbkEj4Bad=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2019,
+        prints_available: "https://society6.com/art/the-price-of-wisdom5724037",
         collection_id: 4,
       },
       {
@@ -255,6 +256,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1Ov_2eQAYURjYxUcvh8zapz9y2UBeCjsD=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        prints_available: "https://society6.com/art/commencement5850545",
         collection_id: 5,
       },
       {
@@ -263,6 +265,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1Brr52MkFs8vYJi6UWUGz7bH2JvZvcDq0=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        prints_available: "https://society6.com/art/assembly-required5724042",
         collection_id: 5,
       },
       {
@@ -271,6 +274,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1aTqE-mBPJW2yjyATw7UBQpqE_aB_O0lf=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2020,
+        prints_available: "https://society6.com/art/emergent-behavior5850563",
         collection_id: 5,
       },
       {
@@ -279,6 +283,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1fs05jJN71Ed8nqQ02u9UMBW6FloWSQcW=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2021,
+        prints_available: "https://society6.com/art/incoming-transmission5724039",
         collection_id: 5,
       },
       {
@@ -287,6 +292,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/11P5CNmnQBoUQ86ghH-mr5QVM3Mew4E9C=w800?authuser=0",
         media: "acrylic on wood",
         year_completed: 2021,
+        prints_available: "https://society6.com/art/what-we-give-away",
         collection_id: 5,
       },
     ],
@@ -357,6 +363,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1G3L62SWaGiIQh35_iiCjHd7r-OgbhX5Y=w800?authuser=0",
         media: "digital",
         year_completed: 2022,
+        prints_available: "https://society6.com/art/system-offline",
         collection_id: 7,
       },
       {
@@ -381,6 +388,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1mwwkBZF-lEwdHuJSQkUpmhQgapNIWB7M=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
+        prints_available: "https://society6.com/art/establishing-connection8854255",
         collection_id: 7,
       },
       {
@@ -397,6 +405,7 @@ const gallery = [
         url: "https://lh3.googleusercontent.com/d/1ISuAR59Zr5MO-qPdDru0Btr6qHFW9bWs=w800?authuser=0",
         media: "digital",
         year_completed: 2023,
+        prints_available: "https://society6.com/art/installing-update",
         collection_id: 7,
       },
     ],
