@@ -1,24 +1,62 @@
-.triangle_container {
-  height: 75vh;
+.cont {
+  display: flex;
+  justify-content: center;
+}
+
+.img_container {
+  margin-top: -10%;
+  position: relative;
+  display: inline-block;
+}
+
+.bg_image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.triangle_wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  height: 30%;
 }
 
 .triangle {
-    overflow: visible;
-    /* margin-bottom: 3rem; */
-    max-height: 100%;
-  }
+  position: absolute;
+  top: 41%;
+  left: 45%;
+  /* transform: translate(-50%, -50%); */
+  /* width: 0; */
+  /* height: 0; */
+  border-left: 11vw solid transparent;
+  border-right: 11vw solid transparent;
+  border-bottom: 19vw solid rgba(255, 255, 255);
+  filter: blur(10px);
+  animation: pulse 2.1s infinite;
+}
 
-  .triangle_outer {
-    /* fill: #c6cccb; */
-    fill: #d6dddc;
-    filter: blur(35px);
+@keyframes pulse {
+  0%,
+  100% {
+    transform: translate(-50%, -50%) scale(1);
   }
+  50% {
+    transform: translate(-50%, -50%) scale(1.6);
+  }
+}
 
-  .triangle_middle {
-    fill: #dfe6e5;
-    filter: blur(4px);
+@media screen and (max-width: 750px) {
+  .img_container {
+    margin-top: 0;
+    transform: scale(1.4);
   }
+}
 
-  .triangle_inner {
-    fill: #ffffff;
+@media screen and (min-width: 1000px) {
+  .img_container {
+    margin-top: -15%;
   }
+}

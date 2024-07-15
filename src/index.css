@@ -9,6 +9,7 @@ html, body, #root {
 #root {
   display: flex;
   flex-direction: column;
+  margin: 0;
 }
 
 :root {
@@ -50,6 +51,11 @@ html, body, #root {
 .image_container {
   width: 100%;
   height: auto;
+}
+
+/* GENERAL STYLES */
+Button.gold_btn {
+  background-color: var(--gold);
 }
 
 /* TESTING */

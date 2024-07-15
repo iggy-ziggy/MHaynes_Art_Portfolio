@@ -11,10 +11,14 @@ import ContactPage from "./pages/ContactPage";
 const router = createBrowserRouter([
   {
     path: "/",
+    element: <LandingPage />
+  },
+  {
+    path: "/",
     element: <Layout />,
     errorElement: <ErrorPage />,
     children: [
-      { index: true, element: <LandingPage /> },
+      // { index: true, element: <LandingPage /> },
       { path: "/home", element: <HomePage /> },
       { path: "collections", element: <AllCollectionsPage /> },
       { path: "collections/:id", element: <CollectionPage /> },
