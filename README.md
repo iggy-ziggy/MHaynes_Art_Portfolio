@@ -20,22 +20,19 @@ This is my personal art portfolio.
 From the landing page, you can navigate to my portfolio, contact or home page.
 
 ### Landing Page
-<img width="350" alt="landing_page" src="https://github.com/iggy-ziggy/MHaynes_Art_Portfolio/assets/128410000/83522121-b8c9-4927-a261-71cd89dcba8c">
-
-### Nav
-<img width="350" alt="nav" src="https://github.com/iggy-ziggy/MHaynes_Art_Portfolio/assets/128410000/911afbd8-0a04-4e69-b749-674ea2c37d33">
+<img width="350" alt="landing_page" src="https://github.com/user-attachments/assets/19d37499-c282-4ef7-af0c-eb7d5f9d0cb0">
 
 ### Home/About
-<img width="350" alt="about" src="https://github.com/iggy-ziggy/MHaynes_Art_Portfolio/assets/128410000/e2236478-5693-4750-a1b3-9f542d7b6a4e">
+<img width="350" alt="home" src="https://github.com/user-attachments/assets/06f8152d-e068-41b4-bd43-aa6f644e79c7">
 
 ### Collection Page
-<img width="350" alt="collection_page" src="https://github.com/iggy-ziggy/MHaynes_Art_Portfolio/assets/128410000/84cb9ca4-af91-4522-874d-f301ff001c4a">
+<img width="350" alt="gallery" src="https://github.com/user-attachments/assets/6be69fa6-a57e-49cf-865f-be9733cd378a">
 
 ### Single Image Page
-<img width="350" alt="single_image" src="https://github.com/iggy-ziggy/MHaynes_Art_Portfolio/assets/128410000/e706bfdc-22a0-415f-b51e-3624aeb52d9b">
+<img width="350" alt="single_image" src="https://github.com/user-attachments/assets/4df19821-d184-480f-8386-130cc1bea39a">
 
 ### Contact
-<img width="350" alt="contact" src="https://github.com/iggy-ziggy/MHaynes_Art_Portfolio/assets/128410000/a69cede2-2d11-4c0d-93a2-54d7a82b6d22">
+<img width="350" alt="contact" src="https://github.com/user-attachments/assets/c11a78bb-6b59-4886-ad46-4fe32e72f8aa">
 
 
 ## License
