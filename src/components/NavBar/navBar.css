@@ -1,3 +1,8 @@
+/* the quote on the home page was overlapping with the dropdown, so I set a z-index on both */
+.nav_bar {
+    z-index: 1000;
+}
+
 .nav_element {
     margin-right: 1rem;
 }
