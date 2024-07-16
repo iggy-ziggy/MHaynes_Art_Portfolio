@@ -15,8 +15,12 @@ const Quote = () => {
     // </div>
     <div className='quote_container'>
       <div className='quote'>
-        <p className='white medium_text' >I tried to come up with a clever quote here.</p>
-        <p className='white small_text'>Really. I did.</p>
+        <div className="main_fade_in">
+          <p className='white medium_text' >I tried to come up with a clever quote here.</p>
+        </div>
+        <div className="sec_fade_in">
+          <p className='white small_text'>Really.<span className="third_fade_in"> I did.</span></p>
+        </div>
       </div>
     </div>
   )

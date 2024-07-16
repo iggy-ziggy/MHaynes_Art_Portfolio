@@ -1,6 +1,6 @@
 import { Box } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
-import triangleImage from '../../assets/triangle_bg.png'
+import triangleImage from '../../assets/triangle_bg_light.png'
 import "./triangle.css";
 
 const Triangle = () => {

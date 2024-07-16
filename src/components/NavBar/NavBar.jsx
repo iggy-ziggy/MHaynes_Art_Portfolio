@@ -9,7 +9,7 @@ const NavBar = () => {
   const [isVisible, setIsVisible] = useState(false);
 
   return (
-    <HStack mb='5rem' padding={5} flexWrap={"wrap"}>
+    <HStack mb='5rem' padding={5} flexWrap={"wrap"} className="nav_bar">
       <Box flexGrow="1">
         <Link to="/" className="bold">
           Matthew Haynes
