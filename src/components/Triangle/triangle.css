@@ -24,6 +24,11 @@
   height: 30%;
 }
 
+.enter_link {
+  position: absolute;
+  z-index: 1;
+}
+
 .triangle {
   position: absolute;
   top: 41%;

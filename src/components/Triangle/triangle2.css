@@ -1,0 +1,86 @@
+.triangle--container {
+    transform: scale(1.7);
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    /* background-color: grey; */
+    z-index: 1;
+  }
+  
+  .enter--text {
+    color: rgb(207, 207, 207);
+    font-size: 1rem;
+    font-weight: 600;
+    position: absolute;
+    top: 50%;
+    z-index: 3;
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+    animation-delay: 4s;
+  }
+  
+  .triangle_1 {
+    position: absolute;
+    top: 30%;
+    width: 30%;
+    height: 30%;
+    border-width: 0 15vw 25.98vw 15vw; /* Responsive sizes */
+    border-color: transparent transparent white transparent;
+    /* filter: blur(10px); */
+    z-index: 2;
+    /* animation: pulsate 2.1s infinite; */
+  }
+  .triangle_2 {
+    position: absolute;
+    top: 28.5%;
+    width: 30%;
+    height: 30%;
+    border-width: 0 15vw 25.98vw 15vw; /* Responsive sizes */
+    border-color: transparent transparent white transparent; /* Triangle facing down */
+    /* background-color: white; */
+    filter: blur(10px);
+    z-index: 1;
+    animation: pulsate 2.1s infinite;
+  }
+  
+  @keyframes pulsate {
+    0%,
+    100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.5);
+    }
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @media screen and (min-width: 800px) {
+    .triangle--container {
+      transform: scale(1.3);
+      margin-top: 0;
+    }
+    .enter--text {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @media screen and (min-width: 1000px) {
+      .triangle--container {
+          margin-top: -10%;
+          transform: scale(1);
+      }
+      .enter--text {
+          font-size: 2rem;
+      }
+  }
+  
