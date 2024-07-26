@@ -1,19 +1,17 @@
-import { Box } from "@chakra-ui/react";
+import { Image } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 import triangleImage from '../../assets/triangle_bg_light.png'
-import "./triangle.css";
+import "./triangle2.css";
 
 const Triangle = () => {
   return (
     <Link to={'/home'}>
-      <div className="cont">
-        <div className="img_container">
-            <img src={triangleImage} alt="" className="bg_image" />
-            <div className="triangle_wrapper">
-                <div className="triangle"></div>
-            </div>
-        </div>
-      </div>
+      <div className="triangle--container">
+      <p className="enter--text">ENTER</p>
+      <div className="triangle_1"></div>
+      <div className="triangle_2"></div>
+      <Image src={triangleImage} />
+    </div>
     </Link>
   );
 };
