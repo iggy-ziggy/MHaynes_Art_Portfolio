@@ -34,10 +34,6 @@ const ContactForm = () => {
     return () => window.removeEventListener("resize", checkScreenSize);
   }, []);
 
-  useEffect(() => {
-    console.log(isMobile)
-  }, [isMobile])
-
   const onSubmit = async (data) => {
     if (!captchaValue) {
       toast({
