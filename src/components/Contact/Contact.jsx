@@ -11,7 +11,7 @@ import {
 import emailjs from "emailjs-com";
 import { useForm } from "react-hook-form";
 import ReCAPTCHA from "react-google-recaptcha";
-import { useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import "./Contact.css";
 
 const SERVICE_ID = import.meta.env.VITE_SERVICE_ID;
@@ -22,8 +22,17 @@ const RECAPTCHA_SITE_KEY = import.meta.env.VITE_RECAPTCHA_SITE_KEY;
 const ContactForm = () => {
   const { register, handleSubmit, reset } = useForm();
   const toast = useToast();
-  const recaptchaRef = useRef(null);
   const [captchaValue, setCaptchaValue] = useState(null);
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 500)
+
+  useEffect(() => {
+    const checkScreenSize = () => {
+      setIsMobile(window.innerWidth < 500);
+    };
+    checkScreenSize();
+    window.addEventListener("resize", checkScreenSize);
+    return () => window.removeEventListener("resize", checkScreenSize);
+  }, []);
 
   const onSubmit = async (data) => {
     if (!captchaValue) {
@@ -46,7 +55,6 @@ const ContactForm = () => {
         isClosable: true,
       });
       reset();
-      recaptchaRef.current.reset();
       setCaptchaValue(null);
     } catch (error) {
       console.error("Error sending email:", error);
@@ -89,10 +97,18 @@ const ContactForm = () => {
             className="input"
           />
         </FormControl>
-        <Box>
+        <Box
+        key={isMobile ? "mobile" : "desktop"}
+        marginBottom="4"
+          style={{
+            transform: isMobile ? "scale(0.9)" : "scale(1)",
+            transformOrigin: "0 0",
+            overflow: "hidden",
+          }}
+        >
           <ReCAPTCHA
-          ref={recaptchaRef}
           sitekey={RECAPTCHA_SITE_KEY}
+          size={isMobile ? "compact" : "normal"}
           // sitekey="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI" // for testing locally
           onChange={(value) => setCaptchaValue(value)}
           />
